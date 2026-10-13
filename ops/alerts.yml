@@ -1,0 +1,16 @@
+groups:
+  - name: nanga
+    rules:
+      - alert: NangaWorkspaceUnavailable
+        expr: up{job="nanga-hatti"} == 0
+        for: 2m
+        labels: {severity: warning}
+        annotations: {summary: "Nanga Hatti metrics target is unavailable"}
+      - alert: NangaModelFailures
+        expr: sum(increase(nanga_model_calls_total{status="failed_or_rejected"}[10m])) >= 2
+        labels: {severity: warning}
+        annotations: {summary: "Model failures or rejected responses need inspection"}
+      - alert: NangaCriticalEvalFailure
+        expr: nanga_eval_score{metric=~"consent_enforcement|review_gate|visibility_preservation"} < 1
+        labels: {severity: warning}
+        annotations: {summary: "A last-recorded critical engineering eval failed"}

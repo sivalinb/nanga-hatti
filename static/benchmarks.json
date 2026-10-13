@@ -1,0 +1,94 @@
+{
+  "created_at": "2026-10-13T16:32:50.121940+00:00",
+  "environment": "Darwin arm64 \u00b7 Python 3.12.14 \u00b7 10 logical CPUs",
+  "warmups": "3 authored runs per configuration; 1 live run when enabled. Warmups excluded.",
+  "scope": "In-process wall-clock draft preparation through the review boundary; human review excluded. Fixed baseline uses the same authored node functions, ledger and event writes but has no LangGraph checkpoints. Concurrent LangGraph runs share a serialized SQLite engine. Live samples include actual provider latency and explicitly report fallback modes; sample size is small. No production throughput claim.",
+  "percentiles": "Nearest-rank p95/p99; median p50",
+  "results": [
+    {
+      "mode": "fixed authored preparation",
+      "iterations": 120,
+      "concurrency": 1,
+      "p50_ms": 0.8839995134621859,
+      "p95_ms": 1.1124999728053808,
+      "p99_ms": 1.174667035229504,
+      "throughput_rps": 1108.4648252737022,
+      "wall_seconds": 0.1082578330533579,
+      "failures": 0,
+      "model_calls": 0,
+      "reported_tokens": 0,
+      "actual_modes": {
+        "authored": 120
+      },
+      "cost_usd": 0
+    },
+    {
+      "mode": "LangGraph authored",
+      "iterations": 120,
+      "concurrency": 1,
+      "p50_ms": 5.3712709923274815,
+      "p95_ms": 7.093500113114715,
+      "p99_ms": 7.987957913428545,
+      "throughput_rps": 177.19625667822717,
+      "wall_seconds": 0.67721520899795,
+      "failures": 0,
+      "model_calls": 0,
+      "reported_tokens": 0,
+      "actual_modes": {
+        "authored": 120
+      },
+      "cost_usd": 0
+    },
+    {
+      "mode": "LangGraph authored",
+      "iterations": 120,
+      "concurrency": 4,
+      "p50_ms": 22.93466654373333,
+      "p95_ms": 48.6607919447124,
+      "p99_ms": 54.24966698046774,
+      "throughput_rps": 179.14209959570746,
+      "wall_seconds": 0.669859291985631,
+      "failures": 0,
+      "model_calls": 0,
+      "reported_tokens": 0,
+      "actual_modes": {
+        "authored": 120
+      },
+      "cost_usd": 0
+    },
+    {
+      "mode": "LangGraph authored",
+      "iterations": 120,
+      "concurrency": 8,
+      "p50_ms": 44.308520504273474,
+      "p95_ms": 94.061000039801,
+      "p99_ms": 125.71041705086827,
+      "throughput_rps": 175.42559141209998,
+      "wall_seconds": 0.6840507079614326,
+      "failures": 0,
+      "model_calls": 0,
+      "reported_tokens": 0,
+      "actual_modes": {
+        "authored": 120
+      },
+      "cost_usd": 0
+    },
+    {
+      "mode": "LangGraph live provider",
+      "iterations": 8,
+      "concurrency": 1,
+      "p50_ms": 3976.664937508758,
+      "p95_ms": 5150.274791987613,
+      "p99_ms": 5150.274791987613,
+      "throughput_rps": 0.2616558863021082,
+      "wall_seconds": 30.57450804207474,
+      "failures": 0,
+      "model_calls": 22,
+      "reported_tokens": 10553,
+      "actual_modes": {
+        "live": 8
+      },
+      "cost_usd": null
+    }
+  ]
+}

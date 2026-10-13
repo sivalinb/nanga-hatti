@@ -1,0 +1,41 @@
+services:
+  app:
+    build: .
+    ports: ["127.0.0.1:8787:8787"]
+    environment:
+      NANGA_DATA_DIR: /app/data/private
+      NANGA_TRUSTED_NETWORK: 172.29.18.0/24
+      NANGA_LIVE_AI: ${NANGA_LIVE_AI:-0}
+      NEBIUS_API_KEY: ${NEBIUS_API_KEY:-}
+      BRAINTRUST_API_KEY: ${BRAINTRUST_API_KEY:-}
+    volumes: ["collection:/app/data"]
+    networks: [nanga]
+  prometheus:
+    image: prom/prometheus:v3.14.0
+    ports: ["127.0.0.1:9098:9090"]
+    volumes:
+      - ./ops/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ./ops/alerts.yml:/etc/prometheus/alerts.yml:ro
+      - prometheus:/prometheus
+    networks: [nanga]
+  grafana:
+    image: grafana/grafana:12.1.1
+    ports: ["127.0.0.1:3018:3000"]
+    environment:
+      GF_SECURITY_ADMIN_PASSWORD: ${GRAFANA_ADMIN_PASSWORD:?Set a private Grafana password}
+      GF_USERS_ALLOW_SIGN_UP: "false"
+      GF_ANALYTICS_REPORTING_ENABLED: "false"
+      GF_PLUGINS_PREINSTALL_DISABLED: "true"
+    volumes:
+      - ./ops/grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./ops/grafana/dashboards:/var/lib/grafana/dashboards:ro
+      - grafana:/var/lib/grafana
+    networks: [nanga]
+volumes:
+  collection:
+  prometheus:
+  grafana:
+networks:
+  nanga:
+    ipam:
+      config: [{subnet: 172.29.18.0/24}]

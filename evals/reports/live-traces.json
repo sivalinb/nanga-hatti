@@ -1,0 +1,1251 @@
+[
+  {
+    "id": "f8fc157e36324b77b62aaa466c52004e",
+    "status": "published",
+    "pending": null,
+    "draft": {
+      "id": "f8fc157e36324b77b62aaa466c52004e",
+      "title": "A Spring's Whisper Along the Path",
+      "reflection_prompt": "How does the sound of water in a natural setting connect us to the land and its stories?",
+      "fact_ids": [
+        "water-reports",
+        "mosaic-landscape",
+        "water-stories"
+      ],
+      "memory": "I remember a spring and the sound of water beside the path.",
+      "place_id": "kotagiri",
+      "theme": "Water & landscape",
+      "attribution": "Fictional evaluation fixture",
+      "year": "A remembered moment",
+      "kind": "Contributor memory \u00b7 unverified personal account",
+      "visibility": "collection",
+      "context": [
+        {
+          "id": "water-reports",
+          "text": "The Water Portal provides reports and case studies on Nilgiris water resources.",
+          "source_id": "water",
+          "source_title": "Nilgiris Water Portal",
+          "url": "https://nilgiriswaterportal.in/downloads/",
+          "publisher": "Keystone Foundation"
+        },
+        {
+          "id": "mosaic-landscape",
+          "text": "The Nilgiris landscape includes shola groves, montane grasslands, wetlands and marshes.",
+          "source_id": "mosaic",
+          "source_title": "A landscape of forests, grasslands and wetlands",
+          "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+          "publisher": "Nilgiri Natural History Society"
+        },
+        {
+          "id": "water-stories",
+          "text": "Its resource collection includes a Badaga Water Stories calendar from 2017.",
+          "source_id": "water",
+          "source_title": "Nilgiris Water Portal",
+          "url": "https://nilgiriswaterportal.in/downloads/",
+          "publisher": "Keystone Foundation"
+        }
+      ]
+    },
+    "warnings": [],
+    "events": [
+      {
+        "stage": "consent",
+        "status": "ok",
+        "duration_ms": 0.13,
+        "metadata": {
+          "consent": true
+        }
+      },
+      {
+        "stage": "resolve_place",
+        "status": "ok",
+        "duration_ms": 0.07,
+        "metadata": {
+          "gazetteer_version": "town-centres-v1"
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 1219.68,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 1222.07,
+        "metadata": {
+          "searches": 0
+        }
+      },
+      {
+        "stage": "search_sources",
+        "status": "ok",
+        "duration_ms": 3.92,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0",
+          "search_number": 1
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 1202.41,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 1204.79,
+        "metadata": {
+          "searches": 1
+        }
+      },
+      {
+        "stage": "search_sources",
+        "status": "ok",
+        "duration_ms": 1.11,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0",
+          "search_number": 2
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 0.14,
+        "metadata": {
+          "searches": 2
+        }
+      },
+      {
+        "stage": "model_compose",
+        "status": "ok",
+        "duration_ms": 1887.04,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "compose",
+        "status": "ok",
+        "duration_ms": 1888.39,
+        "metadata": {
+          "memory_rewritten": false
+        }
+      },
+      {
+        "stage": "validate",
+        "status": "ok",
+        "duration_ms": 0.46,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0"
+        }
+      },
+      {
+        "stage": "review",
+        "status": "ok",
+        "duration_ms": 0.18,
+        "metadata": {
+          "action": "approve"
+        }
+      },
+      {
+        "stage": "publish",
+        "status": "ok",
+        "duration_ms": 0.68,
+        "metadata": {
+          "visibility": "collection"
+        }
+      }
+    ],
+    "ledger": {
+      "id": "f8fc157e36324b77b62aaa466c52004e",
+      "created": 1791909725.311848,
+      "status": "published",
+      "mode": "live",
+      "duration": 4.386153916129842,
+      "input_tokens": 1490,
+      "output_tokens": 102,
+      "calls": 3,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=0cc74511-7713-4c5c-93cf-2fd5ec6c6852"
+    }
+  },
+  {
+    "id": "aa2cd32afd124816b0a8e3c53f55c2ce",
+    "status": "published",
+    "pending": null,
+    "draft": {
+      "id": "aa2cd32afd124816b0a8e3c53f55c2ce",
+      "title": "Seasonal Changes in the Nilgiris Wetland",
+      "reflection_prompt": "How does the dry season transformation of the wetland reflect broader ecological patterns in the Nilgiris landscape?",
+      "fact_ids": [
+        "water-reports",
+        "water-stories",
+        "mosaic-landscape"
+      ],
+      "memory": "The wetland near our route looked different during the dry season.",
+      "place_id": "kotagiri",
+      "theme": "Water & landscape",
+      "attribution": "Fictional evaluation fixture",
+      "year": "A remembered moment",
+      "kind": "Contributor memory \u00b7 unverified personal account",
+      "visibility": "collection",
+      "context": [
+        {
+          "id": "water-reports",
+          "text": "The Water Portal provides reports and case studies on Nilgiris water resources.",
+          "source_id": "water",
+          "source_title": "Nilgiris Water Portal",
+          "url": "https://nilgiriswaterportal.in/downloads/",
+          "publisher": "Keystone Foundation"
+        },
+        {
+          "id": "water-stories",
+          "text": "Its resource collection includes a Badaga Water Stories calendar from 2017.",
+          "source_id": "water",
+          "source_title": "Nilgiris Water Portal",
+          "url": "https://nilgiriswaterportal.in/downloads/",
+          "publisher": "Keystone Foundation"
+        },
+        {
+          "id": "mosaic-landscape",
+          "text": "The Nilgiris landscape includes shola groves, montane grasslands, wetlands and marshes.",
+          "source_id": "mosaic",
+          "source_title": "A landscape of forests, grasslands and wetlands",
+          "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+          "publisher": "Nilgiri Natural History Society"
+        }
+      ]
+    },
+    "warnings": [],
+    "events": [
+      {
+        "stage": "consent",
+        "status": "ok",
+        "duration_ms": 0.15,
+        "metadata": {
+          "consent": true
+        }
+      },
+      {
+        "stage": "resolve_place",
+        "status": "ok",
+        "duration_ms": 0.57,
+        "metadata": {
+          "gazetteer_version": "town-centres-v1"
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 1831.88,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 1833.65,
+        "metadata": {
+          "searches": 0
+        }
+      },
+      {
+        "stage": "search_sources",
+        "status": "ok",
+        "duration_ms": 0.58,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0",
+          "search_number": 1
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 1122.59,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 1125.61,
+        "metadata": {
+          "searches": 1
+        }
+      },
+      {
+        "stage": "search_sources",
+        "status": "ok",
+        "duration_ms": 0.84,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0",
+          "search_number": 2
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 0.29,
+        "metadata": {
+          "searches": 2
+        }
+      },
+      {
+        "stage": "model_compose",
+        "status": "ok",
+        "duration_ms": 1922.88,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "compose",
+        "status": "ok",
+        "duration_ms": 1924.16,
+        "metadata": {
+          "memory_rewritten": false
+        }
+      },
+      {
+        "stage": "validate",
+        "status": "ok",
+        "duration_ms": 0.12,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0"
+        }
+      },
+      {
+        "stage": "review",
+        "status": "ok",
+        "duration_ms": 0.17,
+        "metadata": {
+          "action": "approve"
+        }
+      },
+      {
+        "stage": "publish",
+        "status": "ok",
+        "duration_ms": 0.48,
+        "metadata": {
+          "visibility": "collection"
+        }
+      }
+    ],
+    "ledger": {
+      "id": "aa2cd32afd124816b0a8e3c53f55c2ce",
+      "created": 1791909730.855126,
+      "status": "published",
+      "mode": "live",
+      "duration": 4.909496291889809,
+      "input_tokens": 1489,
+      "output_tokens": 113,
+      "calls": 3,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=9e9a0887-e440-47d0-a02e-8ba962d24d47"
+    }
+  },
+  {
+    "id": "b12bde4a146d4130ab1cdec4d5cf1bb4",
+    "status": "published",
+    "pending": null,
+    "draft": {
+      "id": "b12bde4a146d4130ab1cdec4d5cf1bb4",
+      "title": "Listening to the Stream After Rain",
+      "reflection_prompt": "How does the sound of water in the Nilgiris reflect the interconnectedness of landscape, vegetation, and water cycles?",
+      "fact_ids": [
+        "mosaic-landscape",
+        "mosaic-history",
+        "mosaic-water"
+      ],
+      "memory": "We paused by the stream after rain and listened to the water.",
+      "place_id": "coonoor",
+      "theme": "Water & landscape",
+      "attribution": "Fictional evaluation fixture",
+      "year": "A remembered moment",
+      "kind": "Contributor memory \u00b7 unverified personal account",
+      "visibility": "collection",
+      "context": [
+        {
+          "id": "mosaic-landscape",
+          "text": "The Nilgiris landscape includes shola groves, montane grasslands, wetlands and marshes.",
+          "source_id": "mosaic",
+          "source_title": "A landscape of forests, grasslands and wetlands",
+          "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+          "publisher": "Nilgiri Natural History Society"
+        },
+        {
+          "id": "mosaic-history",
+          "text": "Restoration choices should consider the past vegetation of a particular site.",
+          "source_id": "mosaic",
+          "source_title": "A landscape of forests, grasslands and wetlands",
+          "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+          "publisher": "Nilgiri Natural History Society"
+        },
+        {
+          "id": "mosaic-water",
+          "text": "Local restoration discussions connect native vegetation and soils with the water cycle.",
+          "source_id": "mosaic",
+          "source_title": "A landscape of forests, grasslands and wetlands",
+          "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+          "publisher": "Nilgiri Natural History Society"
+        }
+      ]
+    },
+    "warnings": [],
+    "events": [
+      {
+        "stage": "consent",
+        "status": "ok",
+        "duration_ms": 0.08,
+        "metadata": {
+          "consent": true
+        }
+      },
+      {
+        "stage": "resolve_place",
+        "status": "ok",
+        "duration_ms": 0.06,
+        "metadata": {
+          "gazetteer_version": "town-centres-v1"
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 1120.82,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 1122.77,
+        "metadata": {
+          "searches": 0
+        }
+      },
+      {
+        "stage": "search_sources",
+        "status": "ok",
+        "duration_ms": 0.85,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0",
+          "search_number": 1
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 960.18,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 961.7,
+        "metadata": {
+          "searches": 1
+        }
+      },
+      {
+        "stage": "model_compose",
+        "status": "ok",
+        "duration_ms": 1985.56,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "compose",
+        "status": "ok",
+        "duration_ms": 1986.72,
+        "metadata": {
+          "memory_rewritten": false
+        }
+      },
+      {
+        "stage": "validate",
+        "status": "ok",
+        "duration_ms": 0.07,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0"
+        }
+      },
+      {
+        "stage": "review",
+        "status": "ok",
+        "duration_ms": 0.21,
+        "metadata": {
+          "action": "approve"
+        }
+      },
+      {
+        "stage": "publish",
+        "status": "ok",
+        "duration_ms": 1.39,
+        "metadata": {
+          "visibility": "collection"
+        }
+      }
+    ],
+    "ledger": {
+      "id": "b12bde4a146d4130ab1cdec4d5cf1bb4",
+      "created": 1791909736.805779,
+      "status": "published",
+      "mode": "live",
+      "duration": 4.090707708965056,
+      "input_tokens": 1442,
+      "output_tokens": 95,
+      "calls": 3,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=c6597238-383e-4cfc-a1a0-7da987d8346f"
+    }
+  },
+  {
+    "id": "b9b0a9525c0a46478ad33718bd9d2748",
+    "status": "published",
+    "pending": null,
+    "draft": {
+      "id": "b9b0a9525c0a46478ad33718bd9d2748",
+      "title": "Exploring Shola Forests and Grasslands in the Nilgiris",
+      "reflection_prompt": "How do shola forests and grasslands in the Nilgiris contribute to water conservation and ecosystem balance?",
+      "fact_ids": [
+        "mosaic-landscape",
+        "longwood-learning",
+        "school-launch"
+      ],
+      "memory": "I would like to ask an elder about the grassland and shola forest.",
+      "place_id": "ooty",
+      "theme": "Water & landscape",
+      "attribution": "Fictional evaluation fixture",
+      "year": "A remembered moment",
+      "kind": "Contributor memory \u00b7 unverified personal account",
+      "visibility": "collection",
+      "context": [
+        {
+          "id": "mosaic-landscape",
+          "text": "The Nilgiris landscape includes shola groves, montane grasslands, wetlands and marshes.",
+          "source_id": "mosaic",
+          "source_title": "A landscape of forests, grasslands and wetlands",
+          "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+          "publisher": "Nilgiri Natural History Society"
+        },
+        {
+          "id": "longwood-learning",
+          "text": "The Longwood Shola interpretation centre presents information on local ecosystems, species and water sources.",
+          "source_id": "longwood",
+          "source_title": "Longwood Shola interpretation centre",
+          "url": "https://nnhs.in/nature-interpretation-center-at-longwood-shola-kotagiri/",
+          "publisher": "Nilgiri Natural History Society"
+        },
+        {
+          "id": "school-launch",
+          "text": "Keystone reports that the Nilgiris Uyirsholai climate curriculum and portal launched in August 2026.",
+          "source_id": "school",
+          "source_title": "Nilgiris Uyirsholai",
+          "url": "https://keystone-foundation.org/launch-climate-education-implementation/",
+          "publisher": "Keystone Foundation"
+        }
+      ]
+    },
+    "warnings": [],
+    "events": [
+      {
+        "stage": "consent",
+        "status": "ok",
+        "duration_ms": 0.12,
+        "metadata": {
+          "consent": true
+        }
+      },
+      {
+        "stage": "resolve_place",
+        "status": "ok",
+        "duration_ms": 0.41,
+        "metadata": {
+          "gazetteer_version": "town-centres-v1"
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 1038.87,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 1040.81,
+        "metadata": {
+          "searches": 0
+        }
+      },
+      {
+        "stage": "search_sources",
+        "status": "ok",
+        "duration_ms": 1.39,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0",
+          "search_number": 1
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 740.92,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 743.61,
+        "metadata": {
+          "searches": 1
+        }
+      },
+      {
+        "stage": "model_compose",
+        "status": "ok",
+        "duration_ms": 2639.37,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "compose",
+        "status": "ok",
+        "duration_ms": 2641.47,
+        "metadata": {
+          "memory_rewritten": false
+        }
+      },
+      {
+        "stage": "validate",
+        "status": "ok",
+        "duration_ms": 0.23,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0"
+        }
+      },
+      {
+        "stage": "review",
+        "status": "ok",
+        "duration_ms": 0.27,
+        "metadata": {
+          "action": "approve"
+        }
+      },
+      {
+        "stage": "publish",
+        "status": "ok",
+        "duration_ms": 0.61,
+        "metadata": {
+          "visibility": "collection"
+        }
+      }
+    ],
+    "ledger": {
+      "id": "b9b0a9525c0a46478ad33718bd9d2748",
+      "created": 1791909742.1068869,
+      "status": "published",
+      "mode": "live",
+      "duration": 4.452430959092453,
+      "input_tokens": 1479,
+      "output_tokens": 103,
+      "calls": 3,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=d44fa84c-c4f7-4fc5-b2b4-032d13322138"
+    }
+  },
+  {
+    "id": "92a2fdd387ff4aeeb079146f790e4799",
+    "status": "published",
+    "pending": null,
+    "draft": {
+      "id": "92a2fdd387ff4aeeb079146f790e4799",
+      "title": "Preparing Millet with Family",
+      "reflection_prompt": "How does preparing food with family connect you to your cultural roots?",
+      "fact_ids": [],
+      "memory": "I remember preparing millet in the kitchen with my family.",
+      "place_id": "kotagiri",
+      "theme": "Food & everyday life",
+      "attribution": "Fictional evaluation fixture",
+      "year": "A remembered moment",
+      "kind": "Contributor memory \u00b7 unverified personal account",
+      "visibility": "collection",
+      "context": []
+    },
+    "warnings": [],
+    "events": [
+      {
+        "stage": "consent",
+        "status": "ok",
+        "duration_ms": 0.53,
+        "metadata": {
+          "consent": true
+        }
+      },
+      {
+        "stage": "resolve_place",
+        "status": "ok",
+        "duration_ms": 0.62,
+        "metadata": {
+          "gazetteer_version": "town-centres-v1"
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 725.67,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 727.12,
+        "metadata": {
+          "searches": 0
+        }
+      },
+      {
+        "stage": "model_compose",
+        "status": "ok",
+        "duration_ms": 1249.88,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "compose",
+        "status": "ok",
+        "duration_ms": 1251.66,
+        "metadata": {
+          "memory_rewritten": false
+        }
+      },
+      {
+        "stage": "validate",
+        "status": "ok",
+        "duration_ms": 0.32,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0"
+        }
+      },
+      {
+        "stage": "review",
+        "status": "ok",
+        "duration_ms": 0.11,
+        "metadata": {
+          "action": "approve"
+        }
+      },
+      {
+        "stage": "publish",
+        "status": "ok",
+        "duration_ms": 0.97,
+        "metadata": {
+          "visibility": "collection"
+        }
+      }
+    ],
+    "ledger": {
+      "id": "92a2fdd387ff4aeeb079146f790e4799",
+      "created": 1791909747.69256,
+      "status": "published",
+      "mode": "live",
+      "duration": 2.0001483749365434,
+      "input_tokens": 594,
+      "output_tokens": 47,
+      "calls": 2,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=5378f47c-a7af-45ef-a870-b927e9652f57"
+    }
+  },
+  {
+    "id": "7161b74c7d28446fb3914722048e9911",
+    "status": "published",
+    "pending": null,
+    "draft": {
+      "id": "7161b74c7d28446fb3914722048e9911",
+      "title": "Coffee's Aroma and Farming Memories",
+      "reflection_prompt": "How does a familiar scent like coffee connect personal memories to broader agricultural traditions?",
+      "fact_ids": [
+        "food-produce",
+        "food-enterprise",
+        "archives-control"
+      ],
+      "memory": "The smell of coffee brings back a conversation about farming.",
+      "place_id": "coonoor",
+      "theme": "Food & everyday life",
+      "attribution": "Fictional evaluation fixture",
+      "year": "A remembered moment",
+      "kind": "Contributor memory \u00b7 unverified personal account",
+      "visibility": "collection",
+      "context": [
+        {
+          "id": "food-produce",
+          "text": "Its producers cultivate crops including coffee, pepper, millets and pulses.",
+          "source_id": "food",
+          "source_title": "Aadhimalai community producers",
+          "url": "https://aadhimalai.in/",
+          "publisher": "Aadhimalai"
+        },
+        {
+          "id": "food-enterprise",
+          "text": "Aadhimalai describes itself as an enterprise owned by Indigenous producers of the Nilgiri Biosphere Reserve.",
+          "source_id": "food",
+          "source_title": "Aadhimalai community producers",
+          "url": "https://aadhimalai.in/",
+          "publisher": "Aadhimalai"
+        },
+        {
+          "id": "archives-control",
+          "text": "Keystone describes community archives with access guided by community membership and cultural norms.",
+          "source_id": "archives",
+          "source_title": "Community archives and access",
+          "url": "https://keystone-foundation.org/workshop-on-community-archives/",
+          "publisher": "Keystone Foundation"
+        }
+      ]
+    },
+    "warnings": [],
+    "events": [
+      {
+        "stage": "consent",
+        "status": "ok",
+        "duration_ms": 0.25,
+        "metadata": {
+          "consent": true
+        }
+      },
+      {
+        "stage": "resolve_place",
+        "status": "ok",
+        "duration_ms": 0.14,
+        "metadata": {
+          "gazetteer_version": "town-centres-v1"
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 1397.24,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 1398.39,
+        "metadata": {
+          "searches": 0
+        }
+      },
+      {
+        "stage": "search_sources",
+        "status": "ok",
+        "duration_ms": 0.57,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0",
+          "search_number": 1
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 926.41,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 927.51,
+        "metadata": {
+          "searches": 1
+        }
+      },
+      {
+        "stage": "model_compose",
+        "status": "ok",
+        "duration_ms": 1320.32,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "compose",
+        "status": "ok",
+        "duration_ms": 1322.97,
+        "metadata": {
+          "memory_rewritten": false
+        }
+      },
+      {
+        "stage": "validate",
+        "status": "ok",
+        "duration_ms": 3.12,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0"
+        }
+      },
+      {
+        "stage": "review",
+        "status": "ok",
+        "duration_ms": 0.26,
+        "metadata": {
+          "action": "approve"
+        }
+      },
+      {
+        "stage": "publish",
+        "status": "ok",
+        "duration_ms": 0.97,
+        "metadata": {
+          "visibility": "collection"
+        }
+      }
+    ],
+    "ledger": {
+      "id": "7161b74c7d28446fb3914722048e9911",
+      "created": 1791909750.721817,
+      "status": "published",
+      "mode": "live",
+      "duration": 3.6765557910548523,
+      "input_tokens": 1357,
+      "output_tokens": 83,
+      "calls": 3,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=bfbaaf03-f774-4431-bb15-2384518f8bf8"
+    }
+  },
+  {
+    "id": "26b185cecb294f119920205748d31bde",
+    "status": "published",
+    "pending": null,
+    "draft": {
+      "id": "26b185cecb294f119920205748d31bde",
+      "title": "Curiosity About Pepper and Pulses in a Family Meal",
+      "reflection_prompt": "How does a simple family meal spark deeper interest in local food traditions and agricultural practices?",
+      "fact_ids": [
+        "food-produce"
+      ],
+      "memory": "A family meal made me curious about pepper and pulses.",
+      "place_id": "ooty",
+      "theme": "Food & everyday life",
+      "attribution": "Fictional evaluation fixture",
+      "year": "A remembered moment",
+      "kind": "Contributor memory \u00b7 unverified personal account",
+      "visibility": "collection",
+      "context": [
+        {
+          "id": "food-produce",
+          "text": "Its producers cultivate crops including coffee, pepper, millets and pulses.",
+          "source_id": "food",
+          "source_title": "Aadhimalai community producers",
+          "url": "https://aadhimalai.in/",
+          "publisher": "Aadhimalai"
+        }
+      ]
+    },
+    "warnings": [],
+    "events": [
+      {
+        "stage": "consent",
+        "status": "ok",
+        "duration_ms": 0.07,
+        "metadata": {
+          "consent": true
+        }
+      },
+      {
+        "stage": "resolve_place",
+        "status": "ok",
+        "duration_ms": 0.17,
+        "metadata": {
+          "gazetteer_version": "town-centres-v1"
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 1372.78,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 1374.02,
+        "metadata": {
+          "searches": 0
+        }
+      },
+      {
+        "stage": "search_sources",
+        "status": "ok",
+        "duration_ms": 1.16,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0",
+          "search_number": 1
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 2056.74,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 2058.9,
+        "metadata": {
+          "searches": 1
+        }
+      },
+      {
+        "stage": "search_sources",
+        "status": "ok",
+        "duration_ms": 1.29,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0",
+          "search_number": 2
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 0.28,
+        "metadata": {
+          "searches": 2
+        }
+      },
+      {
+        "stage": "model_compose",
+        "status": "ok",
+        "duration_ms": 1566.82,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "compose",
+        "status": "ok",
+        "duration_ms": 1569.69,
+        "metadata": {
+          "memory_rewritten": false
+        }
+      },
+      {
+        "stage": "validate",
+        "status": "ok",
+        "duration_ms": 0.44,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0"
+        }
+      },
+      {
+        "stage": "review",
+        "status": "ok",
+        "duration_ms": 0.07,
+        "metadata": {
+          "action": "approve"
+        }
+      },
+      {
+        "stage": "publish",
+        "status": "ok",
+        "duration_ms": 0.38,
+        "metadata": {
+          "visibility": "collection"
+        }
+      }
+    ],
+    "ledger": {
+      "id": "26b185cecb294f119920205748d31bde",
+      "created": 1791909755.381558,
+      "status": "published",
+      "mode": "live",
+      "duration": 5.027938999934122,
+      "input_tokens": 1427,
+      "output_tokens": 95,
+      "calls": 3,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=4ae2bce0-9b23-4325-a048-44d4165833d1"
+    }
+  },
+  {
+    "id": "e8a55b70acc74536a2d24fe248628690",
+    "status": "published",
+    "pending": null,
+    "draft": {
+      "id": "e8a55b70acc74536a2d24fe248628690",
+      "title": "Tracking Homegrown vs. Purchased Ingredients",
+      "reflection_prompt": "How does distinguishing between homegrown and bought ingredients reflect your relationship with food and sustainability?",
+      "fact_ids": [],
+      "memory": "I want to record which ingredients were grown and which were bought.",
+      "place_id": "coonoor",
+      "theme": "Food & everyday life",
+      "attribution": "Fictional evaluation fixture",
+      "year": "A remembered moment",
+      "kind": "Contributor memory \u00b7 unverified personal account",
+      "visibility": "collection",
+      "context": []
+    },
+    "warnings": [],
+    "events": [
+      {
+        "stage": "consent",
+        "status": "ok",
+        "duration_ms": 0.18,
+        "metadata": {
+          "consent": true
+        }
+      },
+      {
+        "stage": "resolve_place",
+        "status": "ok",
+        "duration_ms": 0.19,
+        "metadata": {
+          "gazetteer_version": "town-centres-v1"
+        }
+      },
+      {
+        "stage": "model_plan",
+        "status": "ok",
+        "duration_ms": 1084.95,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "plan",
+        "status": "ok",
+        "duration_ms": 1088.73,
+        "metadata": {
+          "searches": 0
+        }
+      },
+      {
+        "stage": "model_compose",
+        "status": "ok",
+        "duration_ms": 1612.87,
+        "metadata": {
+          "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+          "prompt_version": "2",
+          "content_sent_with_permission": true
+        }
+      },
+      {
+        "stage": "compose",
+        "status": "ok",
+        "duration_ms": 1614.85,
+        "metadata": {
+          "memory_rewritten": false
+        }
+      },
+      {
+        "stage": "validate",
+        "status": "ok",
+        "duration_ms": 0.12,
+        "metadata": {
+          "corpus_version": "bcb2f85d36153af0"
+        }
+      },
+      {
+        "stage": "review",
+        "status": "ok",
+        "duration_ms": 2.0,
+        "metadata": {
+          "action": "approve"
+        }
+      },
+      {
+        "stage": "publish",
+        "status": "ok",
+        "duration_ms": 0.56,
+        "metadata": {
+          "visibility": "collection"
+        }
+      }
+    ],
+    "ledger": {
+      "id": "e8a55b70acc74536a2d24fe248628690",
+      "created": 1791909761.4650009,
+      "status": "published",
+      "mode": "live",
+      "duration": 2.721227917005308,
+      "input_tokens": 596,
+      "output_tokens": 54,
+      "calls": 2,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=ea392645-76d9-4184-b9a6-9f30f387be94"
+    }
+  }
+]

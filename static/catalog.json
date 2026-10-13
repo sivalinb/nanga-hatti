@@ -1,0 +1,515 @@
+{
+  "places": [
+    {
+      "id": "kotagiri",
+      "name": "Kotagiri",
+      "aliases": [
+        "kotagiri",
+        "kothagiri",
+        "கோத்தகிரி"
+      ],
+      "lat": 11.4227,
+      "lon": 76.8607
+    },
+    {
+      "id": "coonoor",
+      "name": "Coonoor",
+      "aliases": [
+        "coonoor",
+        "kunnoor",
+        "குன்னூர்"
+      ],
+      "lat": 11.353,
+      "lon": 76.7959
+    },
+    {
+      "id": "ooty",
+      "name": "Udhagamandalam",
+      "aliases": [
+        "ooty",
+        "udhagamandalam",
+        "ootacamund",
+        "உதகமண்டலம்"
+      ],
+      "lat": 11.4102,
+      "lon": 76.695
+    }
+  ],
+  "sources": [
+    {
+      "id": "hatti",
+      "title": "The word Hatti",
+      "url": "https://badaga.co/2021/06/08/the-beauty-of-ha-sound-in-badaga/",
+      "publisher": "Bellie Jayaprakash",
+      "topics": [
+        "language",
+        "village",
+        "names"
+      ],
+      "facts": [
+        [
+          "hatti-village",
+          "Hatti is a Badaga word for village."
+        ],
+        [
+          "hatti-sound",
+          "The cited community author emphasizes retaining the initial h sound in Hatti."
+        ]
+      ]
+    },
+    {
+      "id": "mosaic",
+      "title": "A landscape of forests, grasslands and wetlands",
+      "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+      "publisher": "Nilgiri Natural History Society",
+      "topics": [
+        "landscape",
+        "water",
+        "grassland",
+        "shola",
+        "restoration"
+      ],
+      "facts": [
+        [
+          "mosaic-landscape",
+          "The Nilgiris landscape includes shola groves, montane grasslands, wetlands and marshes."
+        ],
+        [
+          "mosaic-history",
+          "Restoration choices should consider the past vegetation of a particular site."
+        ],
+        [
+          "mosaic-water",
+          "Local restoration discussions connect native vegetation and soils with the water cycle."
+        ]
+      ]
+    },
+    {
+      "id": "water",
+      "title": "Nilgiris Water Portal",
+      "url": "https://nilgiriswaterportal.in/downloads/",
+      "publisher": "Keystone Foundation",
+      "topics": [
+        "water",
+        "spring",
+        "wetland",
+        "memory",
+        "badaga"
+      ],
+      "facts": [
+        [
+          "water-reports",
+          "The Water Portal provides reports and case studies on Nilgiris water resources."
+        ],
+        [
+          "water-stories",
+          "Its resource collection includes a Badaga Water Stories calendar from 2017."
+        ]
+      ]
+    },
+    {
+      "id": "radio",
+      "title": "Radio Kotagiri",
+      "url": "https://radiokotagiri.keystone-foundation.org/",
+      "publisher": "Radio Kotagiri",
+      "topics": [
+        "voice",
+        "music",
+        "story",
+        "community",
+        "language"
+      ],
+      "facts": [
+        [
+          "radio-voices",
+          "Radio Kotagiri carries local-language stories, songs and community experiences."
+        ],
+        [
+          "radio-learning",
+          "The station has collaborated with schools and colleges on community media."
+        ]
+      ]
+    },
+    {
+      "id": "archives",
+      "title": "Community archives and access",
+      "url": "https://keystone-foundation.org/workshop-on-community-archives/",
+      "publisher": "Keystone Foundation",
+      "topics": [
+        "memory",
+        "archive",
+        "consent",
+        "community",
+        "history"
+      ],
+      "facts": [
+        [
+          "archives-control",
+          "Keystone describes community archives with access guided by community membership and cultural norms."
+        ],
+        [
+          "archives-glossary",
+          "A reported archives workshop included work on language glossaries."
+        ]
+      ]
+    },
+    {
+      "id": "food",
+      "title": "Aadhimalai community producers",
+      "url": "https://aadhimalai.in/",
+      "publisher": "Aadhimalai",
+      "topics": [
+        "food",
+        "millet",
+        "coffee",
+        "honey",
+        "work",
+        "farming"
+      ],
+      "facts": [
+        [
+          "food-enterprise",
+          "Aadhimalai describes itself as an enterprise owned by Indigenous producers of the Nilgiri Biosphere Reserve."
+        ],
+        [
+          "food-produce",
+          "Its producers cultivate crops including coffee, pepper, millets and pulses."
+        ]
+      ]
+    },
+    {
+      "id": "embroidery",
+      "title": "Toda Embroidery registration",
+      "url": "https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/135",
+      "publisher": "Intellectual Property India",
+      "topics": [
+        "craft",
+        "embroidery",
+        "toda",
+        "maker"
+      ],
+      "facts": [
+        [
+          "embroidery-gi",
+          "Toda Embroidery is recorded as a registered geographical indication in the official registry."
+        ]
+      ]
+    },
+    {
+      "id": "art",
+      "title": "Kurumba artists and storytelling",
+      "url": "https://lastforest.in/products/kurumba-tribal-art",
+      "publisher": "Last Forest",
+      "topics": [
+        "craft",
+        "painting",
+        "kurumba",
+        "maker"
+      ],
+      "facts": [
+        [
+          "art-makers",
+          "Last Forest describes paintings made by Kurumba artists that depict community life and relationships with nature."
+        ]
+      ]
+    },
+    {
+      "id": "school",
+      "title": "Nilgiris Uyirsholai",
+      "url": "https://keystone-foundation.org/launch-climate-education-implementation/",
+      "publisher": "Keystone Foundation",
+      "topics": [
+        "school",
+        "climate",
+        "learning",
+        "children"
+      ],
+      "facts": [
+        [
+          "school-launch",
+          "Keystone reports that the Nilgiris Uyirsholai climate curriculum and portal launched in August 2026."
+        ],
+        [
+          "school-place",
+          "The curriculum uses local ecology, observations and activities for climate learning."
+        ]
+      ]
+    },
+    {
+      "id": "walk",
+      "title": "Kotagiri heritage walks",
+      "url": "https://nnhs.in/of-name-and-fame-heritage-walk-kotagiri/",
+      "publisher": "Nilgiri Natural History Society",
+      "topics": [
+        "walk",
+        "history",
+        "names",
+        "kotagiri"
+      ],
+      "facts": [
+        [
+          "walk-stories",
+          "NNHS has organized a Kotagiri heritage walk exploring stories behind local places."
+        ]
+      ]
+    },
+    {
+      "id": "longwood",
+      "title": "Longwood Shola interpretation centre",
+      "url": "https://nnhs.in/nature-interpretation-center-at-longwood-shola-kotagiri/",
+      "publisher": "Nilgiri Natural History Society",
+      "topics": [
+        "shola",
+        "forest",
+        "learning",
+        "kotagiri"
+      ],
+      "facts": [
+        [
+          "longwood-learning",
+          "The Longwood Shola interpretation centre presents information on local ecosystems, species and water sources."
+        ]
+      ]
+    },
+    {
+      "id": "invasives",
+      "title": "Citizen observations of invasive plants",
+      "url": "https://nnhs.in/invasive-plant-mapping/",
+      "publisher": "Nilgiri Natural History Society",
+      "topics": [
+        "invasive",
+        "plant",
+        "restoration",
+        "citizen",
+        "observation"
+      ],
+      "facts": [
+        [
+          "invasives-citizens",
+          "NNHS reports invasive-plant mapping involving citizens, students, scientists and forest staff."
+        ]
+      ]
+    }
+  ],
+  "facts": {
+    "hatti-village": {
+      "id": "hatti-village",
+      "text": "Hatti is a Badaga word for village.",
+      "source_id": "hatti",
+      "source_title": "The word Hatti",
+      "url": "https://badaga.co/2021/06/08/the-beauty-of-ha-sound-in-badaga/",
+      "publisher": "Bellie Jayaprakash"
+    },
+    "hatti-sound": {
+      "id": "hatti-sound",
+      "text": "The cited community author emphasizes retaining the initial h sound in Hatti.",
+      "source_id": "hatti",
+      "source_title": "The word Hatti",
+      "url": "https://badaga.co/2021/06/08/the-beauty-of-ha-sound-in-badaga/",
+      "publisher": "Bellie Jayaprakash"
+    },
+    "mosaic-landscape": {
+      "id": "mosaic-landscape",
+      "text": "The Nilgiris landscape includes shola groves, montane grasslands, wetlands and marshes.",
+      "source_id": "mosaic",
+      "source_title": "A landscape of forests, grasslands and wetlands",
+      "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+      "publisher": "Nilgiri Natural History Society"
+    },
+    "mosaic-history": {
+      "id": "mosaic-history",
+      "text": "Restoration choices should consider the past vegetation of a particular site.",
+      "source_id": "mosaic",
+      "source_title": "A landscape of forests, grasslands and wetlands",
+      "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+      "publisher": "Nilgiri Natural History Society"
+    },
+    "mosaic-water": {
+      "id": "mosaic-water",
+      "text": "Local restoration discussions connect native vegetation and soils with the water cycle.",
+      "source_id": "mosaic",
+      "source_title": "A landscape of forests, grasslands and wetlands",
+      "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+      "publisher": "Nilgiri Natural History Society"
+    },
+    "water-reports": {
+      "id": "water-reports",
+      "text": "The Water Portal provides reports and case studies on Nilgiris water resources.",
+      "source_id": "water",
+      "source_title": "Nilgiris Water Portal",
+      "url": "https://nilgiriswaterportal.in/downloads/",
+      "publisher": "Keystone Foundation"
+    },
+    "water-stories": {
+      "id": "water-stories",
+      "text": "Its resource collection includes a Badaga Water Stories calendar from 2017.",
+      "source_id": "water",
+      "source_title": "Nilgiris Water Portal",
+      "url": "https://nilgiriswaterportal.in/downloads/",
+      "publisher": "Keystone Foundation"
+    },
+    "radio-voices": {
+      "id": "radio-voices",
+      "text": "Radio Kotagiri carries local-language stories, songs and community experiences.",
+      "source_id": "radio",
+      "source_title": "Radio Kotagiri",
+      "url": "https://radiokotagiri.keystone-foundation.org/",
+      "publisher": "Radio Kotagiri"
+    },
+    "radio-learning": {
+      "id": "radio-learning",
+      "text": "The station has collaborated with schools and colleges on community media.",
+      "source_id": "radio",
+      "source_title": "Radio Kotagiri",
+      "url": "https://radiokotagiri.keystone-foundation.org/",
+      "publisher": "Radio Kotagiri"
+    },
+    "archives-control": {
+      "id": "archives-control",
+      "text": "Keystone describes community archives with access guided by community membership and cultural norms.",
+      "source_id": "archives",
+      "source_title": "Community archives and access",
+      "url": "https://keystone-foundation.org/workshop-on-community-archives/",
+      "publisher": "Keystone Foundation"
+    },
+    "archives-glossary": {
+      "id": "archives-glossary",
+      "text": "A reported archives workshop included work on language glossaries.",
+      "source_id": "archives",
+      "source_title": "Community archives and access",
+      "url": "https://keystone-foundation.org/workshop-on-community-archives/",
+      "publisher": "Keystone Foundation"
+    },
+    "food-enterprise": {
+      "id": "food-enterprise",
+      "text": "Aadhimalai describes itself as an enterprise owned by Indigenous producers of the Nilgiri Biosphere Reserve.",
+      "source_id": "food",
+      "source_title": "Aadhimalai community producers",
+      "url": "https://aadhimalai.in/",
+      "publisher": "Aadhimalai"
+    },
+    "food-produce": {
+      "id": "food-produce",
+      "text": "Its producers cultivate crops including coffee, pepper, millets and pulses.",
+      "source_id": "food",
+      "source_title": "Aadhimalai community producers",
+      "url": "https://aadhimalai.in/",
+      "publisher": "Aadhimalai"
+    },
+    "embroidery-gi": {
+      "id": "embroidery-gi",
+      "text": "Toda Embroidery is recorded as a registered geographical indication in the official registry.",
+      "source_id": "embroidery",
+      "source_title": "Toda Embroidery registration",
+      "url": "https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/135",
+      "publisher": "Intellectual Property India"
+    },
+    "art-makers": {
+      "id": "art-makers",
+      "text": "Last Forest describes paintings made by Kurumba artists that depict community life and relationships with nature.",
+      "source_id": "art",
+      "source_title": "Kurumba artists and storytelling",
+      "url": "https://lastforest.in/products/kurumba-tribal-art",
+      "publisher": "Last Forest"
+    },
+    "school-launch": {
+      "id": "school-launch",
+      "text": "Keystone reports that the Nilgiris Uyirsholai climate curriculum and portal launched in August 2026.",
+      "source_id": "school",
+      "source_title": "Nilgiris Uyirsholai",
+      "url": "https://keystone-foundation.org/launch-climate-education-implementation/",
+      "publisher": "Keystone Foundation"
+    },
+    "school-place": {
+      "id": "school-place",
+      "text": "The curriculum uses local ecology, observations and activities for climate learning.",
+      "source_id": "school",
+      "source_title": "Nilgiris Uyirsholai",
+      "url": "https://keystone-foundation.org/launch-climate-education-implementation/",
+      "publisher": "Keystone Foundation"
+    },
+    "walk-stories": {
+      "id": "walk-stories",
+      "text": "NNHS has organized a Kotagiri heritage walk exploring stories behind local places.",
+      "source_id": "walk",
+      "source_title": "Kotagiri heritage walks",
+      "url": "https://nnhs.in/of-name-and-fame-heritage-walk-kotagiri/",
+      "publisher": "Nilgiri Natural History Society"
+    },
+    "longwood-learning": {
+      "id": "longwood-learning",
+      "text": "The Longwood Shola interpretation centre presents information on local ecosystems, species and water sources.",
+      "source_id": "longwood",
+      "source_title": "Longwood Shola interpretation centre",
+      "url": "https://nnhs.in/nature-interpretation-center-at-longwood-shola-kotagiri/",
+      "publisher": "Nilgiri Natural History Society"
+    },
+    "invasives-citizens": {
+      "id": "invasives-citizens",
+      "text": "NNHS reports invasive-plant mapping involving citizens, students, scientists and forest staff.",
+      "source_id": "invasives",
+      "source_title": "Citizen observations of invasive plants",
+      "url": "https://nnhs.in/invasive-plant-mapping/",
+      "publisher": "Nilgiri Natural History Society"
+    }
+  },
+  "seeds": [
+    {
+      "id": "seed-spring",
+      "title": "The path beside the spring",
+      "place_id": "kotagiri",
+      "theme": "Water & landscape",
+      "memory": "I remember taking the longer path home so I could pause beside the stream. The hills felt different after rain.",
+      "fact_ids": [
+        "mosaic-landscape",
+        "water-stories"
+      ],
+      "kind": "Fictional demonstration",
+      "attribution": "Authored example; no real contributor",
+      "year": "An imagined childhood"
+    },
+    {
+      "id": "seed-kitchen",
+      "title": "A kitchen that carries a season",
+      "place_id": "coonoor",
+      "theme": "Food & everyday life",
+      "memory": "The sound of preparing supper is what I remember first. I would like to ask my family which ingredients they grew and which they bought.",
+      "fact_ids": [
+        "food-produce"
+      ],
+      "kind": "Fictional demonstration",
+      "attribution": "Authored example; no real contributor",
+      "year": "A family conversation prompt"
+    },
+    {
+      "id": "seed-name",
+      "title": "Say the place name slowly",
+      "place_id": "ooty",
+      "theme": "Language & belonging",
+      "memory": "When I hear the name of home spoken by someone familiar, it sounds like more than a place on a map.",
+      "fact_ids": [
+        "hatti-village",
+        "archives-control"
+      ],
+      "kind": "Fictional demonstration",
+      "attribution": "Authored example; no real contributor",
+      "year": "A memory-making prompt"
+    },
+    {
+      "id": "seed-makers",
+      "title": "Hands, patience and a story",
+      "place_id": "kotagiri",
+      "theme": "Work & making",
+      "memory": "I want to record the ordinary steps behind something handmade, in the maker's own words and with their agreement.",
+      "fact_ids": [
+        "art-makers",
+        "embroidery-gi"
+      ],
+      "kind": "Fictional demonstration",
+      "attribution": "Authored example; no real contributor",
+      "year": "A contribution idea"
+    }
+  ],
+  "corpus_version": "bcb2f85d36153af0",
+  "workspace": "public-preview"
+}

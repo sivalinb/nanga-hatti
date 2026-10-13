@@ -1,0 +1,22 @@
+[
+ {"query":"meaning of Hatti village","expected":["hatti-village"]},
+ {"query":"retain initial h sound","expected":["hatti-sound"]},
+ {"query":"shola grasslands marshes landscape","expected":["mosaic-landscape"]},
+ {"query":"restoration past vegetation history","expected":["mosaic-history"]},
+ {"query":"vegetation soils water cycle","expected":["mosaic-water"]},
+ {"query":"reports case studies water resources","expected":["water-reports"]},
+ {"query":"Badaga water stories calendar","expected":["water-stories"]},
+ {"query":"local radio stories songs","expected":["radio-voices"]},
+ {"query":"radio media school college","expected":["radio-learning"]},
+ {"query":"community archive access cultural norms","expected":["archives-control"]},
+ {"query":"archive workshop language glossary","expected":["archives-glossary"]},
+ {"query":"producer owned Indigenous enterprise","expected":["food-enterprise"]},
+ {"query":"coffee pepper millet pulses crops","expected":["food-produce"]},
+ {"query":"Toda embroidery geographical indication","expected":["embroidery-gi"]},
+ {"query":"Kurumba art painting nature","expected":["art-makers"]},
+ {"query":"Uyirsholai launched August 2026","expected":["school-launch"]},
+ {"query":"local ecology observations learning activities","expected":["school-place"]},
+ {"query":"Kotagiri heritage walk stories names","expected":["walk-stories"]},
+ {"query":"Longwood Shola interpretation centre","expected":["longwood-learning"]},
+ {"query":"citizens students mapping invasive plants","expected":["invasives-citizens"]}
+]

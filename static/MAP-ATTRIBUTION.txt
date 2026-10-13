@@ -1,0 +1,2 @@
+Map data © OpenStreetMap contributors, ODbL 1.0. https://www.openstreetmap.org/copyright
+Snapshot retrieved from https://overpass-api.de/api/interpreter. Selected primary/secondary/trunk roads, rivers and water polygons; not a complete navigation map.

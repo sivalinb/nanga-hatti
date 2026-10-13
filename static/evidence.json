@@ -1,0 +1,3338 @@
+{
+  "runs": [
+    {
+      "id": "f8fc157e36324b77b62aaa466c52004e",
+      "created": 1791909725.311848,
+      "status": "published",
+      "mode": "live",
+      "duration": 4.386153916129842,
+      "input_tokens": 1490,
+      "output_tokens": 102,
+      "calls": 3,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=0cc74511-7713-4c5c-93cf-2fd5ec6c6852"
+    },
+    {
+      "id": "aa2cd32afd124816b0a8e3c53f55c2ce",
+      "created": 1791909730.855126,
+      "status": "published",
+      "mode": "live",
+      "duration": 4.909496291889809,
+      "input_tokens": 1489,
+      "output_tokens": 113,
+      "calls": 3,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=9e9a0887-e440-47d0-a02e-8ba962d24d47"
+    },
+    {
+      "id": "b12bde4a146d4130ab1cdec4d5cf1bb4",
+      "created": 1791909736.805779,
+      "status": "published",
+      "mode": "live",
+      "duration": 4.090707708965056,
+      "input_tokens": 1442,
+      "output_tokens": 95,
+      "calls": 3,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=c6597238-383e-4cfc-a1a0-7da987d8346f"
+    },
+    {
+      "id": "b9b0a9525c0a46478ad33718bd9d2748",
+      "created": 1791909742.1068869,
+      "status": "published",
+      "mode": "live",
+      "duration": 4.452430959092453,
+      "input_tokens": 1479,
+      "output_tokens": 103,
+      "calls": 3,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=d44fa84c-c4f7-4fc5-b2b4-032d13322138"
+    },
+    {
+      "id": "92a2fdd387ff4aeeb079146f790e4799",
+      "created": 1791909747.69256,
+      "status": "published",
+      "mode": "live",
+      "duration": 2.0001483749365434,
+      "input_tokens": 594,
+      "output_tokens": 47,
+      "calls": 2,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=5378f47c-a7af-45ef-a870-b927e9652f57"
+    },
+    {
+      "id": "7161b74c7d28446fb3914722048e9911",
+      "created": 1791909750.721817,
+      "status": "published",
+      "mode": "live",
+      "duration": 3.6765557910548523,
+      "input_tokens": 1357,
+      "output_tokens": 83,
+      "calls": 3,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=bfbaaf03-f774-4431-bb15-2384518f8bf8"
+    },
+    {
+      "id": "26b185cecb294f119920205748d31bde",
+      "created": 1791909755.381558,
+      "status": "published",
+      "mode": "live",
+      "duration": 5.027938999934122,
+      "input_tokens": 1427,
+      "output_tokens": 95,
+      "calls": 3,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=4ae2bce0-9b23-4325-a048-44d4165833d1"
+    },
+    {
+      "id": "e8a55b70acc74536a2d24fe248628690",
+      "created": 1791909761.4650009,
+      "status": "published",
+      "mode": "live",
+      "duration": 2.721227917005308,
+      "input_tokens": 596,
+      "output_tokens": 54,
+      "calls": 2,
+      "cost_usd": null,
+      "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=ea392645-76d9-4184-b9a6-9f30f387be94"
+    }
+  ],
+  "recorded_runs": [
+    {
+      "id": "f8fc157e36324b77b62aaa466c52004e",
+      "status": "published",
+      "pending": null,
+      "draft": {
+        "id": "f8fc157e36324b77b62aaa466c52004e",
+        "title": "A Spring's Whisper Along the Path",
+        "reflection_prompt": "How does the sound of water in a natural setting connect us to the land and its stories?",
+        "fact_ids": [
+          "water-reports",
+          "mosaic-landscape",
+          "water-stories"
+        ],
+        "memory": "I remember a spring and the sound of water beside the path.",
+        "place_id": "kotagiri",
+        "theme": "Water & landscape",
+        "attribution": "Fictional evaluation fixture",
+        "year": "A remembered moment",
+        "kind": "Contributor memory \u00b7 unverified personal account",
+        "visibility": "collection",
+        "context": [
+          {
+            "id": "water-reports",
+            "text": "The Water Portal provides reports and case studies on Nilgiris water resources.",
+            "source_id": "water",
+            "source_title": "Nilgiris Water Portal",
+            "url": "https://nilgiriswaterportal.in/downloads/",
+            "publisher": "Keystone Foundation"
+          },
+          {
+            "id": "mosaic-landscape",
+            "text": "The Nilgiris landscape includes shola groves, montane grasslands, wetlands and marshes.",
+            "source_id": "mosaic",
+            "source_title": "A landscape of forests, grasslands and wetlands",
+            "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+            "publisher": "Nilgiri Natural History Society"
+          },
+          {
+            "id": "water-stories",
+            "text": "Its resource collection includes a Badaga Water Stories calendar from 2017.",
+            "source_id": "water",
+            "source_title": "Nilgiris Water Portal",
+            "url": "https://nilgiriswaterportal.in/downloads/",
+            "publisher": "Keystone Foundation"
+          }
+        ]
+      },
+      "warnings": [],
+      "events": [
+        {
+          "stage": "consent",
+          "status": "ok",
+          "duration_ms": 0.13,
+          "metadata": {
+            "consent": true
+          }
+        },
+        {
+          "stage": "resolve_place",
+          "status": "ok",
+          "duration_ms": 0.07,
+          "metadata": {
+            "gazetteer_version": "town-centres-v1"
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 1219.68,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 1222.07,
+          "metadata": {
+            "searches": 0
+          }
+        },
+        {
+          "stage": "search_sources",
+          "status": "ok",
+          "duration_ms": 3.92,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0",
+            "search_number": 1
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 1202.41,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 1204.79,
+          "metadata": {
+            "searches": 1
+          }
+        },
+        {
+          "stage": "search_sources",
+          "status": "ok",
+          "duration_ms": 1.11,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0",
+            "search_number": 2
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 0.14,
+          "metadata": {
+            "searches": 2
+          }
+        },
+        {
+          "stage": "model_compose",
+          "status": "ok",
+          "duration_ms": 1887.04,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "compose",
+          "status": "ok",
+          "duration_ms": 1888.39,
+          "metadata": {
+            "memory_rewritten": false
+          }
+        },
+        {
+          "stage": "validate",
+          "status": "ok",
+          "duration_ms": 0.46,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0"
+          }
+        },
+        {
+          "stage": "review",
+          "status": "ok",
+          "duration_ms": 0.18,
+          "metadata": {
+            "action": "approve"
+          }
+        },
+        {
+          "stage": "publish",
+          "status": "ok",
+          "duration_ms": 0.68,
+          "metadata": {
+            "visibility": "collection"
+          }
+        }
+      ],
+      "ledger": {
+        "id": "f8fc157e36324b77b62aaa466c52004e",
+        "created": 1791909725.311848,
+        "status": "published",
+        "mode": "live",
+        "duration": 4.386153916129842,
+        "input_tokens": 1490,
+        "output_tokens": 102,
+        "calls": 3,
+        "cost_usd": null,
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=0cc74511-7713-4c5c-93cf-2fd5ec6c6852"
+      }
+    },
+    {
+      "id": "aa2cd32afd124816b0a8e3c53f55c2ce",
+      "status": "published",
+      "pending": null,
+      "draft": {
+        "id": "aa2cd32afd124816b0a8e3c53f55c2ce",
+        "title": "Seasonal Changes in the Nilgiris Wetland",
+        "reflection_prompt": "How does the dry season transformation of the wetland reflect broader ecological patterns in the Nilgiris landscape?",
+        "fact_ids": [
+          "water-reports",
+          "water-stories",
+          "mosaic-landscape"
+        ],
+        "memory": "The wetland near our route looked different during the dry season.",
+        "place_id": "kotagiri",
+        "theme": "Water & landscape",
+        "attribution": "Fictional evaluation fixture",
+        "year": "A remembered moment",
+        "kind": "Contributor memory \u00b7 unverified personal account",
+        "visibility": "collection",
+        "context": [
+          {
+            "id": "water-reports",
+            "text": "The Water Portal provides reports and case studies on Nilgiris water resources.",
+            "source_id": "water",
+            "source_title": "Nilgiris Water Portal",
+            "url": "https://nilgiriswaterportal.in/downloads/",
+            "publisher": "Keystone Foundation"
+          },
+          {
+            "id": "water-stories",
+            "text": "Its resource collection includes a Badaga Water Stories calendar from 2017.",
+            "source_id": "water",
+            "source_title": "Nilgiris Water Portal",
+            "url": "https://nilgiriswaterportal.in/downloads/",
+            "publisher": "Keystone Foundation"
+          },
+          {
+            "id": "mosaic-landscape",
+            "text": "The Nilgiris landscape includes shola groves, montane grasslands, wetlands and marshes.",
+            "source_id": "mosaic",
+            "source_title": "A landscape of forests, grasslands and wetlands",
+            "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+            "publisher": "Nilgiri Natural History Society"
+          }
+        ]
+      },
+      "warnings": [],
+      "events": [
+        {
+          "stage": "consent",
+          "status": "ok",
+          "duration_ms": 0.15,
+          "metadata": {
+            "consent": true
+          }
+        },
+        {
+          "stage": "resolve_place",
+          "status": "ok",
+          "duration_ms": 0.57,
+          "metadata": {
+            "gazetteer_version": "town-centres-v1"
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 1831.88,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 1833.65,
+          "metadata": {
+            "searches": 0
+          }
+        },
+        {
+          "stage": "search_sources",
+          "status": "ok",
+          "duration_ms": 0.58,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0",
+            "search_number": 1
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 1122.59,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 1125.61,
+          "metadata": {
+            "searches": 1
+          }
+        },
+        {
+          "stage": "search_sources",
+          "status": "ok",
+          "duration_ms": 0.84,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0",
+            "search_number": 2
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 0.29,
+          "metadata": {
+            "searches": 2
+          }
+        },
+        {
+          "stage": "model_compose",
+          "status": "ok",
+          "duration_ms": 1922.88,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "compose",
+          "status": "ok",
+          "duration_ms": 1924.16,
+          "metadata": {
+            "memory_rewritten": false
+          }
+        },
+        {
+          "stage": "validate",
+          "status": "ok",
+          "duration_ms": 0.12,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0"
+          }
+        },
+        {
+          "stage": "review",
+          "status": "ok",
+          "duration_ms": 0.17,
+          "metadata": {
+            "action": "approve"
+          }
+        },
+        {
+          "stage": "publish",
+          "status": "ok",
+          "duration_ms": 0.48,
+          "metadata": {
+            "visibility": "collection"
+          }
+        }
+      ],
+      "ledger": {
+        "id": "aa2cd32afd124816b0a8e3c53f55c2ce",
+        "created": 1791909730.855126,
+        "status": "published",
+        "mode": "live",
+        "duration": 4.909496291889809,
+        "input_tokens": 1489,
+        "output_tokens": 113,
+        "calls": 3,
+        "cost_usd": null,
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=9e9a0887-e440-47d0-a02e-8ba962d24d47"
+      }
+    },
+    {
+      "id": "b12bde4a146d4130ab1cdec4d5cf1bb4",
+      "status": "published",
+      "pending": null,
+      "draft": {
+        "id": "b12bde4a146d4130ab1cdec4d5cf1bb4",
+        "title": "Listening to the Stream After Rain",
+        "reflection_prompt": "How does the sound of water in the Nilgiris reflect the interconnectedness of landscape, vegetation, and water cycles?",
+        "fact_ids": [
+          "mosaic-landscape",
+          "mosaic-history",
+          "mosaic-water"
+        ],
+        "memory": "We paused by the stream after rain and listened to the water.",
+        "place_id": "coonoor",
+        "theme": "Water & landscape",
+        "attribution": "Fictional evaluation fixture",
+        "year": "A remembered moment",
+        "kind": "Contributor memory \u00b7 unverified personal account",
+        "visibility": "collection",
+        "context": [
+          {
+            "id": "mosaic-landscape",
+            "text": "The Nilgiris landscape includes shola groves, montane grasslands, wetlands and marshes.",
+            "source_id": "mosaic",
+            "source_title": "A landscape of forests, grasslands and wetlands",
+            "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+            "publisher": "Nilgiri Natural History Society"
+          },
+          {
+            "id": "mosaic-history",
+            "text": "Restoration choices should consider the past vegetation of a particular site.",
+            "source_id": "mosaic",
+            "source_title": "A landscape of forests, grasslands and wetlands",
+            "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+            "publisher": "Nilgiri Natural History Society"
+          },
+          {
+            "id": "mosaic-water",
+            "text": "Local restoration discussions connect native vegetation and soils with the water cycle.",
+            "source_id": "mosaic",
+            "source_title": "A landscape of forests, grasslands and wetlands",
+            "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+            "publisher": "Nilgiri Natural History Society"
+          }
+        ]
+      },
+      "warnings": [],
+      "events": [
+        {
+          "stage": "consent",
+          "status": "ok",
+          "duration_ms": 0.08,
+          "metadata": {
+            "consent": true
+          }
+        },
+        {
+          "stage": "resolve_place",
+          "status": "ok",
+          "duration_ms": 0.06,
+          "metadata": {
+            "gazetteer_version": "town-centres-v1"
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 1120.82,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 1122.77,
+          "metadata": {
+            "searches": 0
+          }
+        },
+        {
+          "stage": "search_sources",
+          "status": "ok",
+          "duration_ms": 0.85,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0",
+            "search_number": 1
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 960.18,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 961.7,
+          "metadata": {
+            "searches": 1
+          }
+        },
+        {
+          "stage": "model_compose",
+          "status": "ok",
+          "duration_ms": 1985.56,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "compose",
+          "status": "ok",
+          "duration_ms": 1986.72,
+          "metadata": {
+            "memory_rewritten": false
+          }
+        },
+        {
+          "stage": "validate",
+          "status": "ok",
+          "duration_ms": 0.07,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0"
+          }
+        },
+        {
+          "stage": "review",
+          "status": "ok",
+          "duration_ms": 0.21,
+          "metadata": {
+            "action": "approve"
+          }
+        },
+        {
+          "stage": "publish",
+          "status": "ok",
+          "duration_ms": 1.39,
+          "metadata": {
+            "visibility": "collection"
+          }
+        }
+      ],
+      "ledger": {
+        "id": "b12bde4a146d4130ab1cdec4d5cf1bb4",
+        "created": 1791909736.805779,
+        "status": "published",
+        "mode": "live",
+        "duration": 4.090707708965056,
+        "input_tokens": 1442,
+        "output_tokens": 95,
+        "calls": 3,
+        "cost_usd": null,
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=c6597238-383e-4cfc-a1a0-7da987d8346f"
+      }
+    },
+    {
+      "id": "b9b0a9525c0a46478ad33718bd9d2748",
+      "status": "published",
+      "pending": null,
+      "draft": {
+        "id": "b9b0a9525c0a46478ad33718bd9d2748",
+        "title": "Exploring Shola Forests and Grasslands in the Nilgiris",
+        "reflection_prompt": "How do shola forests and grasslands in the Nilgiris contribute to water conservation and ecosystem balance?",
+        "fact_ids": [
+          "mosaic-landscape",
+          "longwood-learning",
+          "school-launch"
+        ],
+        "memory": "I would like to ask an elder about the grassland and shola forest.",
+        "place_id": "ooty",
+        "theme": "Water & landscape",
+        "attribution": "Fictional evaluation fixture",
+        "year": "A remembered moment",
+        "kind": "Contributor memory \u00b7 unverified personal account",
+        "visibility": "collection",
+        "context": [
+          {
+            "id": "mosaic-landscape",
+            "text": "The Nilgiris landscape includes shola groves, montane grasslands, wetlands and marshes.",
+            "source_id": "mosaic",
+            "source_title": "A landscape of forests, grasslands and wetlands",
+            "url": "https://nnhs.in/mainstreaming-community-led-ecological-restoration/",
+            "publisher": "Nilgiri Natural History Society"
+          },
+          {
+            "id": "longwood-learning",
+            "text": "The Longwood Shola interpretation centre presents information on local ecosystems, species and water sources.",
+            "source_id": "longwood",
+            "source_title": "Longwood Shola interpretation centre",
+            "url": "https://nnhs.in/nature-interpretation-center-at-longwood-shola-kotagiri/",
+            "publisher": "Nilgiri Natural History Society"
+          },
+          {
+            "id": "school-launch",
+            "text": "Keystone reports that the Nilgiris Uyirsholai climate curriculum and portal launched in August 2026.",
+            "source_id": "school",
+            "source_title": "Nilgiris Uyirsholai",
+            "url": "https://keystone-foundation.org/launch-climate-education-implementation/",
+            "publisher": "Keystone Foundation"
+          }
+        ]
+      },
+      "warnings": [],
+      "events": [
+        {
+          "stage": "consent",
+          "status": "ok",
+          "duration_ms": 0.12,
+          "metadata": {
+            "consent": true
+          }
+        },
+        {
+          "stage": "resolve_place",
+          "status": "ok",
+          "duration_ms": 0.41,
+          "metadata": {
+            "gazetteer_version": "town-centres-v1"
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 1038.87,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 1040.81,
+          "metadata": {
+            "searches": 0
+          }
+        },
+        {
+          "stage": "search_sources",
+          "status": "ok",
+          "duration_ms": 1.39,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0",
+            "search_number": 1
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 740.92,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 743.61,
+          "metadata": {
+            "searches": 1
+          }
+        },
+        {
+          "stage": "model_compose",
+          "status": "ok",
+          "duration_ms": 2639.37,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "compose",
+          "status": "ok",
+          "duration_ms": 2641.47,
+          "metadata": {
+            "memory_rewritten": false
+          }
+        },
+        {
+          "stage": "validate",
+          "status": "ok",
+          "duration_ms": 0.23,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0"
+          }
+        },
+        {
+          "stage": "review",
+          "status": "ok",
+          "duration_ms": 0.27,
+          "metadata": {
+            "action": "approve"
+          }
+        },
+        {
+          "stage": "publish",
+          "status": "ok",
+          "duration_ms": 0.61,
+          "metadata": {
+            "visibility": "collection"
+          }
+        }
+      ],
+      "ledger": {
+        "id": "b9b0a9525c0a46478ad33718bd9d2748",
+        "created": 1791909742.1068869,
+        "status": "published",
+        "mode": "live",
+        "duration": 4.452430959092453,
+        "input_tokens": 1479,
+        "output_tokens": 103,
+        "calls": 3,
+        "cost_usd": null,
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=d44fa84c-c4f7-4fc5-b2b4-032d13322138"
+      }
+    },
+    {
+      "id": "92a2fdd387ff4aeeb079146f790e4799",
+      "status": "published",
+      "pending": null,
+      "draft": {
+        "id": "92a2fdd387ff4aeeb079146f790e4799",
+        "title": "Preparing Millet with Family",
+        "reflection_prompt": "How does preparing food with family connect you to your cultural roots?",
+        "fact_ids": [],
+        "memory": "I remember preparing millet in the kitchen with my family.",
+        "place_id": "kotagiri",
+        "theme": "Food & everyday life",
+        "attribution": "Fictional evaluation fixture",
+        "year": "A remembered moment",
+        "kind": "Contributor memory \u00b7 unverified personal account",
+        "visibility": "collection",
+        "context": []
+      },
+      "warnings": [],
+      "events": [
+        {
+          "stage": "consent",
+          "status": "ok",
+          "duration_ms": 0.53,
+          "metadata": {
+            "consent": true
+          }
+        },
+        {
+          "stage": "resolve_place",
+          "status": "ok",
+          "duration_ms": 0.62,
+          "metadata": {
+            "gazetteer_version": "town-centres-v1"
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 725.67,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 727.12,
+          "metadata": {
+            "searches": 0
+          }
+        },
+        {
+          "stage": "model_compose",
+          "status": "ok",
+          "duration_ms": 1249.88,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "compose",
+          "status": "ok",
+          "duration_ms": 1251.66,
+          "metadata": {
+            "memory_rewritten": false
+          }
+        },
+        {
+          "stage": "validate",
+          "status": "ok",
+          "duration_ms": 0.32,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0"
+          }
+        },
+        {
+          "stage": "review",
+          "status": "ok",
+          "duration_ms": 0.11,
+          "metadata": {
+            "action": "approve"
+          }
+        },
+        {
+          "stage": "publish",
+          "status": "ok",
+          "duration_ms": 0.97,
+          "metadata": {
+            "visibility": "collection"
+          }
+        }
+      ],
+      "ledger": {
+        "id": "92a2fdd387ff4aeeb079146f790e4799",
+        "created": 1791909747.69256,
+        "status": "published",
+        "mode": "live",
+        "duration": 2.0001483749365434,
+        "input_tokens": 594,
+        "output_tokens": 47,
+        "calls": 2,
+        "cost_usd": null,
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=5378f47c-a7af-45ef-a870-b927e9652f57"
+      }
+    },
+    {
+      "id": "7161b74c7d28446fb3914722048e9911",
+      "status": "published",
+      "pending": null,
+      "draft": {
+        "id": "7161b74c7d28446fb3914722048e9911",
+        "title": "Coffee's Aroma and Farming Memories",
+        "reflection_prompt": "How does a familiar scent like coffee connect personal memories to broader agricultural traditions?",
+        "fact_ids": [
+          "food-produce",
+          "food-enterprise",
+          "archives-control"
+        ],
+        "memory": "The smell of coffee brings back a conversation about farming.",
+        "place_id": "coonoor",
+        "theme": "Food & everyday life",
+        "attribution": "Fictional evaluation fixture",
+        "year": "A remembered moment",
+        "kind": "Contributor memory \u00b7 unverified personal account",
+        "visibility": "collection",
+        "context": [
+          {
+            "id": "food-produce",
+            "text": "Its producers cultivate crops including coffee, pepper, millets and pulses.",
+            "source_id": "food",
+            "source_title": "Aadhimalai community producers",
+            "url": "https://aadhimalai.in/",
+            "publisher": "Aadhimalai"
+          },
+          {
+            "id": "food-enterprise",
+            "text": "Aadhimalai describes itself as an enterprise owned by Indigenous producers of the Nilgiri Biosphere Reserve.",
+            "source_id": "food",
+            "source_title": "Aadhimalai community producers",
+            "url": "https://aadhimalai.in/",
+            "publisher": "Aadhimalai"
+          },
+          {
+            "id": "archives-control",
+            "text": "Keystone describes community archives with access guided by community membership and cultural norms.",
+            "source_id": "archives",
+            "source_title": "Community archives and access",
+            "url": "https://keystone-foundation.org/workshop-on-community-archives/",
+            "publisher": "Keystone Foundation"
+          }
+        ]
+      },
+      "warnings": [],
+      "events": [
+        {
+          "stage": "consent",
+          "status": "ok",
+          "duration_ms": 0.25,
+          "metadata": {
+            "consent": true
+          }
+        },
+        {
+          "stage": "resolve_place",
+          "status": "ok",
+          "duration_ms": 0.14,
+          "metadata": {
+            "gazetteer_version": "town-centres-v1"
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 1397.24,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 1398.39,
+          "metadata": {
+            "searches": 0
+          }
+        },
+        {
+          "stage": "search_sources",
+          "status": "ok",
+          "duration_ms": 0.57,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0",
+            "search_number": 1
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 926.41,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 927.51,
+          "metadata": {
+            "searches": 1
+          }
+        },
+        {
+          "stage": "model_compose",
+          "status": "ok",
+          "duration_ms": 1320.32,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "compose",
+          "status": "ok",
+          "duration_ms": 1322.97,
+          "metadata": {
+            "memory_rewritten": false
+          }
+        },
+        {
+          "stage": "validate",
+          "status": "ok",
+          "duration_ms": 3.12,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0"
+          }
+        },
+        {
+          "stage": "review",
+          "status": "ok",
+          "duration_ms": 0.26,
+          "metadata": {
+            "action": "approve"
+          }
+        },
+        {
+          "stage": "publish",
+          "status": "ok",
+          "duration_ms": 0.97,
+          "metadata": {
+            "visibility": "collection"
+          }
+        }
+      ],
+      "ledger": {
+        "id": "7161b74c7d28446fb3914722048e9911",
+        "created": 1791909750.721817,
+        "status": "published",
+        "mode": "live",
+        "duration": 3.6765557910548523,
+        "input_tokens": 1357,
+        "output_tokens": 83,
+        "calls": 3,
+        "cost_usd": null,
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=bfbaaf03-f774-4431-bb15-2384518f8bf8"
+      }
+    },
+    {
+      "id": "26b185cecb294f119920205748d31bde",
+      "status": "published",
+      "pending": null,
+      "draft": {
+        "id": "26b185cecb294f119920205748d31bde",
+        "title": "Curiosity About Pepper and Pulses in a Family Meal",
+        "reflection_prompt": "How does a simple family meal spark deeper interest in local food traditions and agricultural practices?",
+        "fact_ids": [
+          "food-produce"
+        ],
+        "memory": "A family meal made me curious about pepper and pulses.",
+        "place_id": "ooty",
+        "theme": "Food & everyday life",
+        "attribution": "Fictional evaluation fixture",
+        "year": "A remembered moment",
+        "kind": "Contributor memory \u00b7 unverified personal account",
+        "visibility": "collection",
+        "context": [
+          {
+            "id": "food-produce",
+            "text": "Its producers cultivate crops including coffee, pepper, millets and pulses.",
+            "source_id": "food",
+            "source_title": "Aadhimalai community producers",
+            "url": "https://aadhimalai.in/",
+            "publisher": "Aadhimalai"
+          }
+        ]
+      },
+      "warnings": [],
+      "events": [
+        {
+          "stage": "consent",
+          "status": "ok",
+          "duration_ms": 0.07,
+          "metadata": {
+            "consent": true
+          }
+        },
+        {
+          "stage": "resolve_place",
+          "status": "ok",
+          "duration_ms": 0.17,
+          "metadata": {
+            "gazetteer_version": "town-centres-v1"
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 1372.78,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 1374.02,
+          "metadata": {
+            "searches": 0
+          }
+        },
+        {
+          "stage": "search_sources",
+          "status": "ok",
+          "duration_ms": 1.16,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0",
+            "search_number": 1
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 2056.74,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 2058.9,
+          "metadata": {
+            "searches": 1
+          }
+        },
+        {
+          "stage": "search_sources",
+          "status": "ok",
+          "duration_ms": 1.29,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0",
+            "search_number": 2
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 0.28,
+          "metadata": {
+            "searches": 2
+          }
+        },
+        {
+          "stage": "model_compose",
+          "status": "ok",
+          "duration_ms": 1566.82,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "compose",
+          "status": "ok",
+          "duration_ms": 1569.69,
+          "metadata": {
+            "memory_rewritten": false
+          }
+        },
+        {
+          "stage": "validate",
+          "status": "ok",
+          "duration_ms": 0.44,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0"
+          }
+        },
+        {
+          "stage": "review",
+          "status": "ok",
+          "duration_ms": 0.07,
+          "metadata": {
+            "action": "approve"
+          }
+        },
+        {
+          "stage": "publish",
+          "status": "ok",
+          "duration_ms": 0.38,
+          "metadata": {
+            "visibility": "collection"
+          }
+        }
+      ],
+      "ledger": {
+        "id": "26b185cecb294f119920205748d31bde",
+        "created": 1791909755.381558,
+        "status": "published",
+        "mode": "live",
+        "duration": 5.027938999934122,
+        "input_tokens": 1427,
+        "output_tokens": 95,
+        "calls": 3,
+        "cost_usd": null,
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=4ae2bce0-9b23-4325-a048-44d4165833d1"
+      }
+    },
+    {
+      "id": "e8a55b70acc74536a2d24fe248628690",
+      "status": "published",
+      "pending": null,
+      "draft": {
+        "id": "e8a55b70acc74536a2d24fe248628690",
+        "title": "Tracking Homegrown vs. Purchased Ingredients",
+        "reflection_prompt": "How does distinguishing between homegrown and bought ingredients reflect your relationship with food and sustainability?",
+        "fact_ids": [],
+        "memory": "I want to record which ingredients were grown and which were bought.",
+        "place_id": "coonoor",
+        "theme": "Food & everyday life",
+        "attribution": "Fictional evaluation fixture",
+        "year": "A remembered moment",
+        "kind": "Contributor memory \u00b7 unverified personal account",
+        "visibility": "collection",
+        "context": []
+      },
+      "warnings": [],
+      "events": [
+        {
+          "stage": "consent",
+          "status": "ok",
+          "duration_ms": 0.18,
+          "metadata": {
+            "consent": true
+          }
+        },
+        {
+          "stage": "resolve_place",
+          "status": "ok",
+          "duration_ms": 0.19,
+          "metadata": {
+            "gazetteer_version": "town-centres-v1"
+          }
+        },
+        {
+          "stage": "model_plan",
+          "status": "ok",
+          "duration_ms": 1084.95,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "plan",
+          "status": "ok",
+          "duration_ms": 1088.73,
+          "metadata": {
+            "searches": 0
+          }
+        },
+        {
+          "stage": "model_compose",
+          "status": "ok",
+          "duration_ms": 1612.87,
+          "metadata": {
+            "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "prompt_version": "2",
+            "content_sent_with_permission": true
+          }
+        },
+        {
+          "stage": "compose",
+          "status": "ok",
+          "duration_ms": 1614.85,
+          "metadata": {
+            "memory_rewritten": false
+          }
+        },
+        {
+          "stage": "validate",
+          "status": "ok",
+          "duration_ms": 0.12,
+          "metadata": {
+            "corpus_version": "bcb2f85d36153af0"
+          }
+        },
+        {
+          "stage": "review",
+          "status": "ok",
+          "duration_ms": 2.0,
+          "metadata": {
+            "action": "approve"
+          }
+        },
+        {
+          "stage": "publish",
+          "status": "ok",
+          "duration_ms": 0.56,
+          "metadata": {
+            "visibility": "collection"
+          }
+        }
+      ],
+      "ledger": {
+        "id": "e8a55b70acc74536a2d24fe248628690",
+        "created": 1791909761.4650009,
+        "status": "published",
+        "mode": "live",
+        "duration": 2.721227917005308,
+        "input_tokens": 596,
+        "output_tokens": 54,
+        "calls": 2,
+        "cost_usd": null,
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=ea392645-76d9-4184-b9a6-9f30f387be94"
+      }
+    }
+  ],
+  "braintrust": "recorded trace links",
+  "corpus_version": "bcb2f85d36153af0",
+  "reports": {
+    "evals": {
+      "created_at": "2026-10-13T16:41:37.180687+00:00",
+      "mode": "authored-workflow + explicit simulated failures",
+      "cases": 50,
+      "retrieval_cases": 20,
+      "scores": {
+        "task_correctness": 1.0,
+        "review_gate": 1.0,
+        "memory_preservation": 1.0,
+        "source_reference_validity": 1.0,
+        "clarification_behavior": 1.0,
+        "visibility_preservation": 1.0,
+        "bounded_searches": 1.0,
+        "consent_enforcement": 1.0,
+        "retrieval_recall_at_3": 1.0,
+        "retrieval_mrr_at_3": 0.975
+      },
+      "corpus_version": "bcb2f85d36153af0",
+      "scope": "Curated engineering fixtures. Source-reference validity is structural, not a claim of cultural or linguistic accuracy. Retrieval cases are authored against this small corpus; no held-out community benchmark.",
+      "results": [
+        {
+          "case_id": "water-01",
+          "kind": "ordinary",
+          "run_id": "747d548c2cb04aa59337ec8fbeb34de5",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "water-02",
+          "kind": "ordinary",
+          "run_id": "39d97a7cdff747d1908e06c86927f253",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "water-03",
+          "kind": "ordinary",
+          "run_id": "a0cce18475c8485d8bc593c60b831b54",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "water-04",
+          "kind": "ordinary",
+          "run_id": "f355a0c92a624597b2458e7a34d68e01",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "food-01",
+          "kind": "ordinary",
+          "run_id": "75396f3dd7bf4682b3f88c3d10dbd682",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "food-02",
+          "kind": "ordinary",
+          "run_id": "4446acb8001140e2934c09ebc19979b1",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "food-03",
+          "kind": "ordinary",
+          "run_id": "c1c547229f764ba2994068df515a8a93",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "food-04",
+          "kind": "ordinary",
+          "run_id": "69da2fc6f2484fdba554d28db3bb67ca",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "language-01",
+          "kind": "ordinary",
+          "run_id": "dd5fbab1dbc74647aef4a4d9d4780c49",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "language-02",
+          "kind": "ordinary",
+          "run_id": "92e868cae55f4ac4b9b9b394e2027ffe",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "language-03",
+          "kind": "ordinary",
+          "run_id": "38b1f49798fe48d18c56ddbd71d0c8aa",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "language-04",
+          "kind": "ordinary",
+          "run_id": "73679a738da246fc8c0af7c03a8d9baa",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "craft-01",
+          "kind": "ordinary",
+          "run_id": "a8e7381ae6474143ad7427c44c9bf0ce",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "craft-02",
+          "kind": "ordinary",
+          "run_id": "34edb1f6c58e448f9c7f79a7103ce054",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "craft-03",
+          "kind": "ordinary",
+          "run_id": "338e38af34644fd99f9a19036af13247",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "craft-04",
+          "kind": "ordinary",
+          "run_id": "eb548f019707465bbbabdf0236f985e5",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "place-01",
+          "kind": "ordinary",
+          "run_id": "e938c8d1ec4244cf93883f3e8441724b",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "place-02",
+          "kind": "ordinary",
+          "run_id": "2735ec347d1846688d533448b4c716cd",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "place-03",
+          "kind": "ordinary",
+          "run_id": "86b201c88976426d90f954f7185eeb10",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "place-04",
+          "kind": "ordinary",
+          "run_id": "4b5cc0f0c6e64b1cb04e2db09bd00e35",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "ambiguous-01",
+          "kind": "ambiguous",
+          "run_id": "20a2192bcda340708308932f708bbb13",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "clarify_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "ambiguous-02",
+          "kind": "ambiguous",
+          "run_id": "654c239ee9cf4e0d968b553a8ecb8dda",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "clarify_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "ambiguous-03",
+          "kind": "ambiguous",
+          "run_id": "b4ed3944c48c4f90aaed5091a0798702",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "clarify_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "ambiguous-04",
+          "kind": "ambiguous",
+          "run_id": "57f27406bcb54cbcb32f44a45250400d",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "clarify_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "ambiguous-05",
+          "kind": "ambiguous",
+          "run_id": "e42c3af94797482696da8e7b3c69c800",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "clarify_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "ambiguous-06",
+          "kind": "ambiguous",
+          "run_id": "caf75b6c0f7b4c6787153cb2c1a56516",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "clarify_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "ambiguous-07",
+          "kind": "ambiguous",
+          "run_id": "7a8095c88b774ca298a9e87371b8f01d",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "clarify_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "ambiguous-08",
+          "kind": "ambiguous",
+          "run_id": "18e4ce01cb294ad8a673bd86d093de7f",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "clarify_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "ambiguous-09",
+          "kind": "ambiguous",
+          "run_id": "37287b49145242339411c52819d70dac",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "clarify_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "ambiguous-10",
+          "kind": "ambiguous",
+          "run_id": "896a327314bb40ee9ccb63f3372ea18b",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "clarify_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "consent-01",
+          "kind": "no_consent",
+          "run_id": "a53b2aa4d12045e98c2cd6bff417470f",
+          "status": "blocked",
+          "expected_status": "blocked",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "consent-02",
+          "kind": "no_consent",
+          "run_id": "7ff99ea2b103459d841e267ec31668f0",
+          "status": "blocked",
+          "expected_status": "blocked",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "consent-03",
+          "kind": "no_consent",
+          "run_id": "f77eaaede36e41f3b50454330eff1508",
+          "status": "blocked",
+          "expected_status": "blocked",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "consent-04",
+          "kind": "no_consent",
+          "run_id": "45902c2229e54bd4ad0f4f89e6b6fc2b",
+          "status": "blocked",
+          "expected_status": "blocked",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "consent-05",
+          "kind": "no_consent",
+          "run_id": "ac7136b89354419da7e6ed4af33f3628",
+          "status": "blocked",
+          "expected_status": "blocked",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "private-01",
+          "kind": "private",
+          "run_id": "bccb546f340346c69928209e0f1171de",
+          "status": "saved_private",
+          "expected_status": "saved_private",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "private-02",
+          "kind": "private",
+          "run_id": "63dc5f1b704048a8b98e0c5a048dd1e8",
+          "status": "saved_private",
+          "expected_status": "saved_private",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "private-03",
+          "kind": "private",
+          "run_id": "d3eb31b6a1a944858f14c8c1e29b599b",
+          "status": "saved_private",
+          "expected_status": "saved_private",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "private-04",
+          "kind": "private",
+          "run_id": "e4e76cef022340c1bbf1060463df986b",
+          "status": "saved_private",
+          "expected_status": "saved_private",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "private-05",
+          "kind": "unshareable",
+          "run_id": "9ac102e6af0b4baa954c24d5f8e4d0d8",
+          "status": "blocked",
+          "expected_status": "blocked",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "reject-01",
+          "kind": "reject",
+          "run_id": "c11cca66adf24b63ac0a153c07ecd3ac",
+          "status": "rejected",
+          "expected_status": "rejected",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "reject-02",
+          "kind": "reject",
+          "run_id": "0f0abdff1caf4bd98b6571920143100a",
+          "status": "rejected",
+          "expected_status": "rejected",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "reject-03",
+          "kind": "reject",
+          "run_id": "ee4f89442c4f4542bd5eccff2d961478",
+          "status": "rejected",
+          "expected_status": "rejected",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "reject-04",
+          "kind": "reject",
+          "run_id": "8ea09872f9ed44ef858909b9f04e61d7",
+          "status": "rejected",
+          "expected_status": "rejected",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "reject-05",
+          "kind": "reject",
+          "run_id": "19aafa842dd840aca8469fb79183800c",
+          "status": "rejected",
+          "expected_status": "rejected",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "failure-01",
+          "kind": "fault_timeout",
+          "run_id": "2bc2ce8f3f294da19257e62d461d5256",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "simulated-fault",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "failure-02",
+          "kind": "fault_reference",
+          "run_id": "ca9b73b6044845d7981b74a9175bbf47",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "simulated-fault",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "failure-03",
+          "kind": "fault_duplicate",
+          "run_id": "62d594d01be64e9c8bfeb2b3a70a4b70",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "simulated-fault",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "failure-04",
+          "kind": "fault_loop",
+          "run_id": "4c8d46c72c6d44408030ec66299eff7f",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "simulated-fault",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        },
+        {
+          "case_id": "failure-05",
+          "kind": "ordinary",
+          "run_id": "5dfbaf9617c74440aaec7ac755e268f3",
+          "status": "published",
+          "expected_status": "published",
+          "scores": {
+            "task_correctness": 1,
+            "review_gate": 1,
+            "memory_preservation": 1,
+            "source_reference_validity": 1,
+            "clarification_behavior": 1,
+            "visibility_preservation": 1,
+            "bounded_searches": 1,
+            "consent_enforcement": 1
+          },
+          "mode": "authored",
+          "model_calls": 0,
+          "tokens": 0,
+          "stages": [
+            "consent",
+            "resolve_place",
+            "plan",
+            "search_sources",
+            "plan",
+            "compose",
+            "validate",
+            "review",
+            "publish"
+          ],
+          "trace_url": null
+        }
+      ]
+    },
+    "benchmarks": {
+      "created_at": "2026-10-13T16:32:50.121940+00:00",
+      "environment": "Darwin arm64 \u00b7 Python 3.12.14 \u00b7 10 logical CPUs",
+      "warmups": "3 authored runs per configuration; 1 live run when enabled. Warmups excluded.",
+      "scope": "In-process wall-clock draft preparation through the review boundary; human review excluded. Fixed baseline uses the same authored node functions, ledger and event writes but has no LangGraph checkpoints. Concurrent LangGraph runs share a serialized SQLite engine. Live samples include actual provider latency and explicitly report fallback modes; sample size is small. No production throughput claim.",
+      "percentiles": "Nearest-rank p95/p99; median p50",
+      "results": [
+        {
+          "mode": "fixed authored preparation",
+          "iterations": 120,
+          "concurrency": 1,
+          "p50_ms": 0.8839995134621859,
+          "p95_ms": 1.1124999728053808,
+          "p99_ms": 1.174667035229504,
+          "throughput_rps": 1108.4648252737022,
+          "wall_seconds": 0.1082578330533579,
+          "failures": 0,
+          "model_calls": 0,
+          "reported_tokens": 0,
+          "actual_modes": {
+            "authored": 120
+          },
+          "cost_usd": 0
+        },
+        {
+          "mode": "LangGraph authored",
+          "iterations": 120,
+          "concurrency": 1,
+          "p50_ms": 5.3712709923274815,
+          "p95_ms": 7.093500113114715,
+          "p99_ms": 7.987957913428545,
+          "throughput_rps": 177.19625667822717,
+          "wall_seconds": 0.67721520899795,
+          "failures": 0,
+          "model_calls": 0,
+          "reported_tokens": 0,
+          "actual_modes": {
+            "authored": 120
+          },
+          "cost_usd": 0
+        },
+        {
+          "mode": "LangGraph authored",
+          "iterations": 120,
+          "concurrency": 4,
+          "p50_ms": 22.93466654373333,
+          "p95_ms": 48.6607919447124,
+          "p99_ms": 54.24966698046774,
+          "throughput_rps": 179.14209959570746,
+          "wall_seconds": 0.669859291985631,
+          "failures": 0,
+          "model_calls": 0,
+          "reported_tokens": 0,
+          "actual_modes": {
+            "authored": 120
+          },
+          "cost_usd": 0
+        },
+        {
+          "mode": "LangGraph authored",
+          "iterations": 120,
+          "concurrency": 8,
+          "p50_ms": 44.308520504273474,
+          "p95_ms": 94.061000039801,
+          "p99_ms": 125.71041705086827,
+          "throughput_rps": 175.42559141209998,
+          "wall_seconds": 0.6840507079614326,
+          "failures": 0,
+          "model_calls": 0,
+          "reported_tokens": 0,
+          "actual_modes": {
+            "authored": 120
+          },
+          "cost_usd": 0
+        },
+        {
+          "mode": "LangGraph live provider",
+          "iterations": 8,
+          "concurrency": 1,
+          "p50_ms": 3976.664937508758,
+          "p95_ms": 5150.274791987613,
+          "p99_ms": 5150.274791987613,
+          "throughput_rps": 0.2616558863021082,
+          "wall_seconds": 30.57450804207474,
+          "failures": 0,
+          "model_calls": 22,
+          "reported_tokens": 10553,
+          "actual_modes": {
+            "live": 8
+          },
+          "cost_usd": null
+        }
+      ]
+    }
+  },
+  "live_evals": {
+    "created_at": "2026-10-13T16:42:45.410993+00:00",
+    "mode": "live-provider",
+    "cases": 8,
+    "retrieval_cases": 20,
+    "scores": {
+      "task_correctness": 1.0,
+      "review_gate": 1.0,
+      "memory_preservation": 1.0,
+      "source_reference_validity": 1.0,
+      "clarification_behavior": 1.0,
+      "visibility_preservation": 1.0,
+      "bounded_searches": 1.0,
+      "consent_enforcement": 1.0,
+      "retrieval_recall_at_3": 1.0,
+      "retrieval_mrr_at_3": 0.975,
+      "live_execution_rate": 1.0
+    },
+    "corpus_version": "bcb2f85d36153af0",
+    "scope": "Curated engineering fixtures. Source-reference validity is structural, not a claim of cultural or linguistic accuracy. Retrieval cases are authored against this small corpus; no held-out community benchmark.",
+    "results": [
+      {
+        "case_id": "water-01",
+        "kind": "ordinary",
+        "run_id": "f8fc157e36324b77b62aaa466c52004e",
+        "status": "published",
+        "expected_status": "published",
+        "scores": {
+          "task_correctness": 1,
+          "review_gate": 1,
+          "memory_preservation": 1,
+          "source_reference_validity": 1,
+          "clarification_behavior": 1,
+          "visibility_preservation": 1,
+          "bounded_searches": 1,
+          "consent_enforcement": 1
+        },
+        "mode": "live",
+        "model_calls": 3,
+        "tokens": 1592,
+        "stages": [
+          "consent",
+          "resolve_place",
+          "model_plan",
+          "plan",
+          "search_sources",
+          "model_plan",
+          "plan",
+          "search_sources",
+          "plan",
+          "model_compose",
+          "compose",
+          "validate",
+          "review",
+          "publish"
+        ],
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=0cc74511-7713-4c5c-93cf-2fd5ec6c6852"
+      },
+      {
+        "case_id": "water-02",
+        "kind": "ordinary",
+        "run_id": "aa2cd32afd124816b0a8e3c53f55c2ce",
+        "status": "published",
+        "expected_status": "published",
+        "scores": {
+          "task_correctness": 1,
+          "review_gate": 1,
+          "memory_preservation": 1,
+          "source_reference_validity": 1,
+          "clarification_behavior": 1,
+          "visibility_preservation": 1,
+          "bounded_searches": 1,
+          "consent_enforcement": 1
+        },
+        "mode": "live",
+        "model_calls": 3,
+        "tokens": 1602,
+        "stages": [
+          "consent",
+          "resolve_place",
+          "model_plan",
+          "plan",
+          "search_sources",
+          "model_plan",
+          "plan",
+          "search_sources",
+          "plan",
+          "model_compose",
+          "compose",
+          "validate",
+          "review",
+          "publish"
+        ],
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=9e9a0887-e440-47d0-a02e-8ba962d24d47"
+      },
+      {
+        "case_id": "water-03",
+        "kind": "ordinary",
+        "run_id": "b12bde4a146d4130ab1cdec4d5cf1bb4",
+        "status": "published",
+        "expected_status": "published",
+        "scores": {
+          "task_correctness": 1,
+          "review_gate": 1,
+          "memory_preservation": 1,
+          "source_reference_validity": 1,
+          "clarification_behavior": 1,
+          "visibility_preservation": 1,
+          "bounded_searches": 1,
+          "consent_enforcement": 1
+        },
+        "mode": "live",
+        "model_calls": 3,
+        "tokens": 1537,
+        "stages": [
+          "consent",
+          "resolve_place",
+          "model_plan",
+          "plan",
+          "search_sources",
+          "model_plan",
+          "plan",
+          "model_compose",
+          "compose",
+          "validate",
+          "review",
+          "publish"
+        ],
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=c6597238-383e-4cfc-a1a0-7da987d8346f"
+      },
+      {
+        "case_id": "water-04",
+        "kind": "ordinary",
+        "run_id": "b9b0a9525c0a46478ad33718bd9d2748",
+        "status": "published",
+        "expected_status": "published",
+        "scores": {
+          "task_correctness": 1,
+          "review_gate": 1,
+          "memory_preservation": 1,
+          "source_reference_validity": 1,
+          "clarification_behavior": 1,
+          "visibility_preservation": 1,
+          "bounded_searches": 1,
+          "consent_enforcement": 1
+        },
+        "mode": "live",
+        "model_calls": 3,
+        "tokens": 1582,
+        "stages": [
+          "consent",
+          "resolve_place",
+          "model_plan",
+          "plan",
+          "search_sources",
+          "model_plan",
+          "plan",
+          "model_compose",
+          "compose",
+          "validate",
+          "review",
+          "publish"
+        ],
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=d44fa84c-c4f7-4fc5-b2b4-032d13322138"
+      },
+      {
+        "case_id": "food-01",
+        "kind": "ordinary",
+        "run_id": "92a2fdd387ff4aeeb079146f790e4799",
+        "status": "published",
+        "expected_status": "published",
+        "scores": {
+          "task_correctness": 1,
+          "review_gate": 1,
+          "memory_preservation": 1,
+          "source_reference_validity": 1,
+          "clarification_behavior": 1,
+          "visibility_preservation": 1,
+          "bounded_searches": 1,
+          "consent_enforcement": 1
+        },
+        "mode": "live",
+        "model_calls": 2,
+        "tokens": 641,
+        "stages": [
+          "consent",
+          "resolve_place",
+          "model_plan",
+          "plan",
+          "model_compose",
+          "compose",
+          "validate",
+          "review",
+          "publish"
+        ],
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=5378f47c-a7af-45ef-a870-b927e9652f57"
+      },
+      {
+        "case_id": "food-02",
+        "kind": "ordinary",
+        "run_id": "7161b74c7d28446fb3914722048e9911",
+        "status": "published",
+        "expected_status": "published",
+        "scores": {
+          "task_correctness": 1,
+          "review_gate": 1,
+          "memory_preservation": 1,
+          "source_reference_validity": 1,
+          "clarification_behavior": 1,
+          "visibility_preservation": 1,
+          "bounded_searches": 1,
+          "consent_enforcement": 1
+        },
+        "mode": "live",
+        "model_calls": 3,
+        "tokens": 1440,
+        "stages": [
+          "consent",
+          "resolve_place",
+          "model_plan",
+          "plan",
+          "search_sources",
+          "model_plan",
+          "plan",
+          "model_compose",
+          "compose",
+          "validate",
+          "review",
+          "publish"
+        ],
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=bfbaaf03-f774-4431-bb15-2384518f8bf8"
+      },
+      {
+        "case_id": "food-03",
+        "kind": "ordinary",
+        "run_id": "26b185cecb294f119920205748d31bde",
+        "status": "published",
+        "expected_status": "published",
+        "scores": {
+          "task_correctness": 1,
+          "review_gate": 1,
+          "memory_preservation": 1,
+          "source_reference_validity": 1,
+          "clarification_behavior": 1,
+          "visibility_preservation": 1,
+          "bounded_searches": 1,
+          "consent_enforcement": 1
+        },
+        "mode": "live",
+        "model_calls": 3,
+        "tokens": 1522,
+        "stages": [
+          "consent",
+          "resolve_place",
+          "model_plan",
+          "plan",
+          "search_sources",
+          "model_plan",
+          "plan",
+          "search_sources",
+          "plan",
+          "model_compose",
+          "compose",
+          "validate",
+          "review",
+          "publish"
+        ],
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=4ae2bce0-9b23-4325-a048-44d4165833d1"
+      },
+      {
+        "case_id": "food-04",
+        "kind": "ordinary",
+        "run_id": "e8a55b70acc74536a2d24fe248628690",
+        "status": "published",
+        "expected_status": "published",
+        "scores": {
+          "task_correctness": 1,
+          "review_gate": 1,
+          "memory_preservation": 1,
+          "source_reference_validity": 1,
+          "clarification_behavior": 1,
+          "visibility_preservation": 1,
+          "bounded_searches": 1,
+          "consent_enforcement": 1
+        },
+        "mode": "live",
+        "model_calls": 2,
+        "tokens": 650,
+        "stages": [
+          "consent",
+          "resolve_place",
+          "model_plan",
+          "plan",
+          "model_compose",
+          "compose",
+          "validate",
+          "review",
+          "publish"
+        ],
+        "trace_url": "https://www.braintrust.dev/app/siva-project/object?object_type=project_logs&object_id=e9fb8885-8eb8-4012-bea0-8cf1a08eff5c&id=ea392645-76d9-4184-b9a6-9f30f387be94"
+      }
+    ],
+    "braintrust_experiment_url": "https://www.braintrust.dev/app/siva-project/p/Nanga%20Hatti/experiments/workflow-20261013-164245-live"
+  }
+}

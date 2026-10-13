@@ -1,0 +1,25 @@
+name: Engineering checks
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  workflows:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ['3.12', '3.13']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - run: pip install -r requirements-dev.txt
+      - run: python -m pytest -q
+      - run: python -m nanga.cli eval
+      - run: python -m nanga.cli benchmark --iterations 40
+      - uses: actions/upload-artifact@v4
+        with:
+          name: engineering-evidence-${{ matrix.python }}
+          path: |
+            evals/reports/latest.json
+            benchmarks/reports/latest.json
